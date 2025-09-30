@@ -9,10 +9,9 @@ This repository contains the code, annotations, analysis, and results for my MSc
 *Helicobacter pylori* is a gastric pathogen linked to ulcers and gastric cancer. Despite its clinical significance, the metabolic potential of its biosynthetic gene clusters remains understudied.
 
 This project aims to:
-- Annotate and catalog BGCs across >9000 *H. pylori* genomes using tools like antiSMASH and GECCO
-- Compare BGC distribution across geographic populations
+- Annotate and catalog BGCs across 1011 *H. pylori* genomes using tools including antiSMASH and GECCO
 - Analyze associations between BGCs, virulence factors, and antibiotic resistance using machine learning
-
+- Compare BGC distribution across geographic populations
 ---
 
 ## 🗂️ Repository Structure
