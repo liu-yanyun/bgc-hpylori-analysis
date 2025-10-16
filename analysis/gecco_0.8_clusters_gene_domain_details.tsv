@@ -1,291 +1,291 @@
-genome,cluster_id,locus_tag,gene,product,cds_function,domain_id,domain_function,final_call
-HpGP-JOR-005,HpGP-JOR-005_cluster_1,HpGP-JOR-005_00216,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-JOR-005,HpGP-JOR-005_cluster_1,HpGP-JOR-005_00217,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-JOR-005,HpGP-JOR-005_cluster_1,HpGP-JOR-005_00218,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-JOR-005,HpGP-JOR-005_cluster_1,HpGP-JOR-005_00219,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-JOR-005,HpGP-JOR-005_cluster_1,HpGP-JOR-005_00220,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-CHI-027,HpGP-CHI-027_cluster_1,HpGP-CHI-027_00213,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-CHI-027,HpGP-CHI-027_cluster_1,HpGP-CHI-027_00214,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-CHI-027,HpGP-CHI-027_cluster_1,HpGP-CHI-027_00215,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-CHI-027,HpGP-CHI-027_cluster_1,HpGP-CHI-027_00216,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-CHI-027,HpGP-CHI-027_cluster_1,HpGP-CHI-027_00217,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-FRA-015,HpGP-FRA-015_cluster_1,HpGP-FRA-015_00218,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-FRA-015,HpGP-FRA-015_cluster_1,HpGP-FRA-015_00219,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-FRA-015,HpGP-FRA-015_cluster_1,HpGP-FRA-015_00220,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-FRA-015,HpGP-FRA-015_cluster_1,HpGP-FRA-015_00221,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-FRA-015,HpGP-FRA-015_cluster_1,HpGP-FRA-015_00222,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-PER-112,HpGP-PER-112_cluster_1,HpGP-PER-112_00216,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-PER-112,HpGP-PER-112_cluster_1,HpGP-PER-112_00217,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-PER-112,HpGP-PER-112_cluster_1,HpGP-PER-112_00218,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-PER-112,HpGP-PER-112_cluster_1,HpGP-PER-112_00219,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-PER-112,HpGP-PER-112_cluster_1,HpGP-PER-112_00220,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-BGR-006,HpGP-BGR-006_cluster_1,HpGP-BGR-006_00217,,hypothetical protein,unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-BGR-006,HpGP-BGR-006_cluster_1,HpGP-BGR-006_00218,HP0217,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-BGR-006,HpGP-BGR-006_cluster_1,HpGP-BGR-006_00219,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-BGR-006,HpGP-BGR-006_cluster_1,HpGP-BGR-006_00220,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-BGR-006,HpGP-BGR-006_cluster_1,HpGP-BGR-006_00221,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-SGP-036,HpGP-SGP-036_cluster_1,HpGP-SGP-036_01117,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-SGP-036,HpGP-SGP-036_cluster_1,HpGP-SGP-036_01118,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-SGP-036,HpGP-SGP-036_cluster_1,HpGP-SGP-036_01119,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-SGP-036,HpGP-SGP-036_cluster_1,HpGP-SGP-036_01120,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SGP-036,HpGP-SGP-036_cluster_1,HpGP-SGP-036_01121,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SGP-002,HpGP-SGP-002_cluster_2,HpGP-SGP-002_00670,,hypothetical protein,unknown,PF01755,"Glycosyl transferase, family 25",
-HpGP-SGP-002,HpGP-SGP-002_cluster_2,HpGP-SGP-002_00671,,hypothetical protein,unknown,PF01755,"Glycosyl transferase, family 25",
-HpGP-SGP-002,HpGP-SGP-002_cluster_2,HpGP-SGP-002_00672,,hypothetical protein,unknown,PF01755,"Glycosyl transferase, family 25",
-HpGP-MMR-006,HpGP-MMR-006_cluster_1,HpGP-MMR-006_00220,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-MMR-006,HpGP-MMR-006_cluster_1,HpGP-MMR-006_00221,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-MMR-006,HpGP-MMR-006_cluster_1,HpGP-MMR-006_00222,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-MMR-006,HpGP-MMR-006_cluster_1,HpGP-MMR-006_00223,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-MMR-006,HpGP-MMR-006_cluster_1,HpGP-MMR-006_00224,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-BGD-003,HpGP-BGD-003_cluster_1,HpGP-BGD-003_00247,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-BGD-003,HpGP-BGD-003_cluster_1,HpGP-BGD-003_00248,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-BGD-003,HpGP-BGD-003_cluster_1,HpGP-BGD-003_00249,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-BGD-003,HpGP-BGD-003_cluster_1,HpGP-BGD-003_00250,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-BGD-003,HpGP-BGD-003_cluster_1,HpGP-BGD-003_00251,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-SPA-313,HpGP-SPA-313_cluster_1,HpGP-SPA-313_00209,HP0207,ATP-binding protein Mpr,unknown,PF01883,MIP18 family-like,
-HpGP-SPA-313,HpGP-SPA-313_cluster_1,HpGP-SPA-313_00209,HP0207,ATP-binding protein Mpr,unknown,PF10609,Flagellum site-determining protein YlxH/ Fe-S cluster assembling factor NBP35,
-HpGP-SPA-313,HpGP-SPA-313_cluster_1,HpGP-SPA-313_00209,HP0207,ATP-binding protein Mpr,unknown,PF13614,AAA domain,
-HpGP-SPA-313,HpGP-SPA-313_cluster_1,HpGP-SPA-313_00209,HP0207,ATP-binding protein Mpr,unknown,PF09140,ATPase MipZ,
-HpGP-SPA-313,HpGP-SPA-313_cluster_1,HpGP-SPA-313_00209,HP0207,ATP-binding protein Mpr,unknown,PF01656,CobQ/CobB/MinD/ParA nucleotide binding domain,
-HpGP-SPA-313,HpGP-SPA-313_cluster_1,HpGP-SPA-313_00210,HP0208,Lipopolysaccharide biosynthesis protein,unknown,,,
-HpGP-SPA-313,HpGP-SPA-313_cluster_1,HpGP-SPA-313_00211,,hypothetical protein,unknown,,,
-HpGP-SPA-313,HpGP-SPA-313_cluster_1,HpGP-SPA-313_00212,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,,,
-HpGP-SPA-313,HpGP-SPA-313_cluster_1,HpGP-SPA-313_00213,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SPA-313,HpGP-SPA-313_cluster_1,HpGP-SPA-313_00214,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SPA-313,HpGP-SPA-313_cluster_1,HpGP-SPA-313_00215,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-SPA-313,HpGP-SPA-313_cluster_1,HpGP-SPA-313_00216,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-SPA-313,HpGP-SPA-313_cluster_1,HpGP-SPA-313_00217,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-SWE-001,HpGP-SWE-001_cluster_1,HpGP-SWE-001_00215,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SWE-001,HpGP-SWE-001_cluster_1,HpGP-SWE-001_00216,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SWE-001,HpGP-SWE-001_cluster_1,HpGP-SWE-001_00217,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-SWE-001,HpGP-SWE-001_cluster_1,HpGP-SWE-001_00218,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-SWE-001,HpGP-SWE-001_cluster_1,HpGP-SWE-001_00219,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-CHI-026,HpGP-CHI-026_cluster_1,HpGP-CHI-026_00220,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-CHI-026,HpGP-CHI-026_cluster_1,HpGP-CHI-026_00221,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-CHI-026,HpGP-CHI-026_cluster_1,HpGP-CHI-026_00222,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-CHI-026,HpGP-CHI-026_cluster_1,HpGP-CHI-026_00223,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-CHI-026,HpGP-CHI-026_cluster_1,HpGP-CHI-026_00224,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-FRA-001,HpGP-FRA-001_cluster_1,HpGP-FRA-001_01366,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-FRA-001,HpGP-FRA-001_cluster_1,HpGP-FRA-001_01367,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-FRA-001,HpGP-FRA-001_cluster_1,HpGP-FRA-001_01368,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-FRA-001,HpGP-FRA-001_cluster_1,HpGP-FRA-001_01369,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-FRA-001,HpGP-FRA-001_cluster_1,HpGP-FRA-001_01370,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SGP-004,HpGP-SGP-004_cluster_1,HpGP-SGP-004_00260,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SGP-004,HpGP-SGP-004_cluster_1,HpGP-SGP-004_00261,HP0218_1,Phospholipid-binding protein,unknown,,,
-HpGP-SGP-004,HpGP-SGP-004_cluster_1,HpGP-SGP-004_00262,HP0219_1,Hypothetical protein HP0219,unknown,,,
-HpGP-SGP-004,HpGP-SGP-004_cluster_1,HpGP-SGP-004_00263,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SGP-004,HpGP-SGP-004_cluster_1,HpGP-SGP-004_00264,HP0218_2,Phospholipid-binding protein,unknown,,,
-HpGP-SGP-004,HpGP-SGP-004_cluster_1,HpGP-SGP-004_00265,HP0219_2,Hypothetical protein HP0219,unknown,,,
-HpGP-SGP-004,HpGP-SGP-004_cluster_1,HpGP-SGP-004_00266,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-KOR-048,HpGP-KOR-048_cluster_1,HpGP-KOR-048_00249,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-KOR-048,HpGP-KOR-048_cluster_1,HpGP-KOR-048_00250,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-KOR-048,HpGP-KOR-048_cluster_1,HpGP-KOR-048_00251,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-KOR-048,HpGP-KOR-048_cluster_1,HpGP-KOR-048_00252,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-KOR-048,HpGP-KOR-048_cluster_1,HpGP-KOR-048_00253,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-MAL-002,HpGP-MAL-002_cluster_1,HpGP-MAL-002_00188,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-MAL-002,HpGP-MAL-002_cluster_1,HpGP-MAL-002_00189,HP0218_1,Phospholipid-binding protein,unknown,,,
-HpGP-MAL-002,HpGP-MAL-002_cluster_1,HpGP-MAL-002_00190,HP0219_1,Hypothetical protein HP0219,unknown,,,
-HpGP-MAL-002,HpGP-MAL-002_cluster_1,HpGP-MAL-002_00191,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-MAL-002,HpGP-MAL-002_cluster_1,HpGP-MAL-002_00192,HP0218_2,Phospholipid-binding protein,unknown,,,
-HpGP-MAL-002,HpGP-MAL-002_cluster_1,HpGP-MAL-002_00193,HP0219_2,Hypothetical protein HP0219,unknown,,,
-HpGP-MAL-002,HpGP-MAL-002_cluster_1,HpGP-MAL-002_00194,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00147,HP0132_1,"L-serine ammonia-lyase SdaA, SdaB",unknown,PF03313,"Serine dehydratase-like, alpha subunit",
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00148,HP0132_2,"L-serine ammonia-lyase SdaA, SdaB",binding,PF03315,Serine dehydratase beta chain,
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00149,HP0133_1,Serine transporter SdaC,unknown,,,
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00150,HP0133_2,Serine transporter SdaC,unknown,,,
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00151,,hypothetical protein,catalytic activity,PF01474,"DAHP synthetase, class II",
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00152,HP0134_1,3-deoxy-7-phosphoheptulonate synthase,catalytic activity,PF01474,"DAHP synthetase, class II",
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00153,HP0134_2,3-deoxy-7-phosphoheptulonate synthase,catalytic activity,PF01474,"DAHP synthetase, class II",
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00154,HP0134_3,3-deoxy-7-phosphoheptulonate synthase,catalytic activity,PF01474,"DAHP synthetase, class II",
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00155,HP0135,Hypothetical protein HP0135,unknown,,,
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00156,HP0136,Bacterioferritin comigratory protein,antioxidant activity,PF00578,Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant,
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00156,HP0136,Bacterioferritin comigratory protein,antioxidant activity,PF08534,Redoxin,
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00157,HP0137,Hypothetical protein HP0137,unknown,PF02589,LUD domain,
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00158,HP0138,Iron-sulfur cluster binding protein,unknown,PF02589,LUD domain,
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00158,HP0138,Iron-sulfur cluster binding protein,unknown,PF13183,"4Fe-4S ferredoxin-type, iron-sulphur binding domain",
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00158,HP0138,Iron-sulfur cluster binding protein,unknown,PF12838,"4Fe-4S ferredoxin-type, iron-sulphur binding domain",
-HpGP-PRI-002,HpGP-PRI-002_cluster_1,HpGP-PRI-002_00158,HP0138,Iron-sulfur cluster binding protein,unknown,PF13534,e-value: 1.9077701743546364e-08,
-HpGP-PRI-002,HpGP-PRI-002_cluster_2,HpGP-PRI-002_00178,HP0154_2,Enolase Eno,unknown,PF00113,"Enolase, C-terminal TIM barrel domain",
-HpGP-PRI-002,HpGP-PRI-002_cluster_2,HpGP-PRI-002_00179,HP0154_3,Enolase Eno,unknown,PF00113,"Enolase, C-terminal TIM barrel domain",
-HpGP-PRI-002,HpGP-PRI-002_cluster_2,HpGP-PRI-002_00180,HP0154_4,Enolase Eno,unknown,PF00113,"Enolase, C-terminal TIM barrel domain",
-HpGP-SPA-016,HpGP-SPA-016_cluster_1,HpGP-SPA-016_00216,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SPA-016,HpGP-SPA-016_cluster_1,HpGP-SPA-016_00217,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SPA-016,HpGP-SPA-016_cluster_1,HpGP-SPA-016_00218,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-SPA-016,HpGP-SPA-016_cluster_1,HpGP-SPA-016_00219,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-SPA-016,HpGP-SPA-016_cluster_1,HpGP-SPA-016_00220,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-ITA-007,HpGP-ITA-007_cluster_1,HpGP-ITA-007_00215,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-ITA-007,HpGP-ITA-007_cluster_1,HpGP-ITA-007_00216,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-ITA-007,HpGP-ITA-007_cluster_1,HpGP-ITA-007_00217,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-ITA-007,HpGP-ITA-007_cluster_1,HpGP-ITA-007_00218,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-ITA-007,HpGP-ITA-007_cluster_1,HpGP-ITA-007_00219,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-SWT-006,HpGP-SWT-006_cluster_1,HpGP-SWT-006_00260,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SWT-006,HpGP-SWT-006_cluster_1,HpGP-SWT-006_00261,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SWT-006,HpGP-SWT-006_cluster_1,HpGP-SWT-006_00262,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-SWT-006,HpGP-SWT-006_cluster_1,HpGP-SWT-006_00263,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-SWT-006,HpGP-SWT-006_cluster_1,HpGP-SWT-006_00264,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-CHI-124,HpGP-CHI-124_cluster_1,HpGP-CHI-124_00225,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-CHI-124,HpGP-CHI-124_cluster_1,HpGP-CHI-124_00226,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-CHI-124,HpGP-CHI-124_cluster_1,HpGP-CHI-124_00227,HP0217_4,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,,,
-HpGP-CHI-124,HpGP-CHI-124_cluster_1,HpGP-CHI-124_00228,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-CHI-124,HpGP-CHI-124_cluster_1,HpGP-CHI-124_00229,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-CHI-124,HpGP-CHI-124_cluster_1,HpGP-CHI-124_00230,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-COL-306,HpGP-COL-306_cluster_1,HpGP-COL-306_00216,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-COL-306,HpGP-COL-306_cluster_1,HpGP-COL-306_00217,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-COL-306,HpGP-COL-306_cluster_1,HpGP-COL-306_00218,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-COL-306,HpGP-COL-306_cluster_1,HpGP-COL-306_00219,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-COL-306,HpGP-COL-306_cluster_1,HpGP-COL-306_00220,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-PRI-005,HpGP-PRI-005_cluster_1,HpGP-PRI-005_00224,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-PRI-005,HpGP-PRI-005_cluster_1,HpGP-PRI-005_00225,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-PRI-005,HpGP-PRI-005_cluster_1,HpGP-PRI-005_00226,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-PRI-005,HpGP-PRI-005_cluster_1,HpGP-PRI-005_00227,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-PRI-005,HpGP-PRI-005_cluster_1,HpGP-PRI-005_00228,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-SPA-315,HpGP-SPA-315_cluster_1,HpGP-SPA-315_00216,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SPA-315,HpGP-SPA-315_cluster_1,HpGP-SPA-315_00217,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SPA-315,HpGP-SPA-315_cluster_1,HpGP-SPA-315_00218,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-SPA-315,HpGP-SPA-315_cluster_1,HpGP-SPA-315_00219,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-SPA-315,HpGP-SPA-315_cluster_1,HpGP-SPA-315_00220,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-CHI-004,HpGP-CHI-004_cluster_1,HpGP-CHI-004_00214,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-CHI-004,HpGP-CHI-004_cluster_1,HpGP-CHI-004_00215,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-CHI-004,HpGP-CHI-004_cluster_1,HpGP-CHI-004_00216,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-CHI-004,HpGP-CHI-004_cluster_1,HpGP-CHI-004_00217,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-CHI-004,HpGP-CHI-004_cluster_1,HpGP-CHI-004_00218,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-JAP-009,HpGP-JAP-009_cluster_1,HpGP-JAP-009_00283,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-JAP-009,HpGP-JAP-009_cluster_1,HpGP-JAP-009_00284,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-JAP-009,HpGP-JAP-009_cluster_1,HpGP-JAP-009_00285,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-JAP-009,HpGP-JAP-009_cluster_1,HpGP-JAP-009_00286,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-JAP-009,HpGP-JAP-009_cluster_1,HpGP-JAP-009_00287,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-SWE-034,HpGP-SWE-034_cluster_1,HpGP-SWE-034_00220,,hypothetical protein,unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SWE-034,HpGP-SWE-034_cluster_1,HpGP-SWE-034_00221,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SWE-034,HpGP-SWE-034_cluster_1,HpGP-SWE-034_00222,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-SWE-034,HpGP-SWE-034_cluster_1,HpGP-SWE-034_00223,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-SWE-034,HpGP-SWE-034_cluster_1,HpGP-SWE-034_00224,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-GER-001,HpGP-GER-001_cluster_2,HpGP-GER-001_01433,HP0220_2,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-GER-001,HpGP-GER-001_cluster_2,HpGP-GER-001_01434,HP0219_2,Hypothetical protein HP0219,unknown,,,
-HpGP-GER-001,HpGP-GER-001_cluster_2,HpGP-GER-001_01435,HP0218_2,Phospholipid-binding protein,unknown,,,
-HpGP-GER-001,HpGP-GER-001_cluster_2,HpGP-GER-001_01436,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-GER-001,HpGP-GER-001_cluster_2,HpGP-GER-001_01437,,IS607 mobile element protein TnpB,unknown,PF07282,"Transposase IS605, OrfB, C-terminal",
-HpGP-GER-001,HpGP-GER-001_cluster_2,HpGP-GER-001_01438,,Mobile element protein TnpA,binding,PF00239,"Resolvase, N-terminal catalytic domain",
-HpGP-GER-001,HpGP-GER-001_cluster_2,HpGP-GER-001_01439,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-GMB-009,HpGP-GMB-009_cluster_1,HpGP-GMB-009_00215,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-GMB-009,HpGP-GMB-009_cluster_1,HpGP-GMB-009_00216,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-GMB-009,HpGP-GMB-009_cluster_1,HpGP-GMB-009_00217,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-GMB-009,HpGP-GMB-009_cluster_1,HpGP-GMB-009_00218,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-GMB-009,HpGP-GMB-009_cluster_1,HpGP-GMB-009_00219,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-MAL-025,HpGP-MAL-025_cluster_1,HpGP-MAL-025_00256,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-MAL-025,HpGP-MAL-025_cluster_1,HpGP-MAL-025_00257,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-MAL-025,HpGP-MAL-025_cluster_1,HpGP-MAL-025_00258,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-MAL-025,HpGP-MAL-025_cluster_1,HpGP-MAL-025_00259,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-MAL-025,HpGP-MAL-025_cluster_1,HpGP-MAL-025_00260,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-IND-007,HpGP-IND-007_cluster_1,HpGP-IND-007_00260,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-IND-007,HpGP-IND-007_cluster_1,HpGP-IND-007_00261,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-IND-007,HpGP-IND-007_cluster_1,HpGP-IND-007_00262,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-IND-007,HpGP-IND-007_cluster_1,HpGP-IND-007_00263,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-IND-007,HpGP-IND-007_cluster_1,HpGP-IND-007_00264,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-PER-110,HpGP-PER-110_cluster_1,HpGP-PER-110_00208,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-PER-110,HpGP-PER-110_cluster_1,HpGP-PER-110_00209,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-PER-110,HpGP-PER-110_cluster_1,HpGP-PER-110_00210,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-PER-110,HpGP-PER-110_cluster_1,HpGP-PER-110_00211,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-PER-110,HpGP-PER-110_cluster_1,HpGP-PER-110_00212,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-SPA-019,HpGP-SPA-019_cluster_1,HpGP-SPA-019_00233,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SPA-019,HpGP-SPA-019_cluster_1,HpGP-SPA-019_00234,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SPA-019,HpGP-SPA-019_cluster_1,HpGP-SPA-019_00235,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-SPA-019,HpGP-SPA-019_cluster_1,HpGP-SPA-019_00236,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-SPA-019,HpGP-SPA-019_cluster_1,HpGP-SPA-019_00237,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-CAN-022,HpGP-CAN-022_cluster_1,HpGP-CAN-022_00235,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-CAN-022,HpGP-CAN-022_cluster_1,HpGP-CAN-022_00236,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-CAN-022,HpGP-CAN-022_cluster_1,HpGP-CAN-022_00237,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-CAN-022,HpGP-CAN-022_cluster_1,HpGP-CAN-022_00238,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-CAN-022,HpGP-CAN-022_cluster_1,HpGP-CAN-022_00239,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-COL-112,HpGP-COL-112_cluster_1,HpGP-COL-112_00215,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-COL-112,HpGP-COL-112_cluster_1,HpGP-COL-112_00216,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-COL-112,HpGP-COL-112_cluster_1,HpGP-COL-112_00217,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-COL-112,HpGP-COL-112_cluster_1,HpGP-COL-112_00218,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-COL-112,HpGP-COL-112_cluster_1,HpGP-COL-112_00219,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-ISL-007,HpGP-ISL-007_cluster_1,HpGP-ISL-007_00970,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-ISL-007,HpGP-ISL-007_cluster_1,HpGP-ISL-007_00971,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-ISL-007,HpGP-ISL-007_cluster_1,HpGP-ISL-007_00972,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-ISL-007,HpGP-ISL-007_cluster_1,HpGP-ISL-007_00973,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-ISL-007,HpGP-ISL-007_cluster_1,HpGP-ISL-007_00974,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-FRA-004,HpGP-FRA-004_cluster_1,HpGP-FRA-004_00214,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-FRA-004,HpGP-FRA-004_cluster_1,HpGP-FRA-004_00215,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-FRA-004,HpGP-FRA-004_cluster_1,HpGP-FRA-004_00216,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-FRA-004,HpGP-FRA-004_cluster_1,HpGP-FRA-004_00217,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-FRA-004,HpGP-FRA-004_cluster_1,HpGP-FRA-004_00218,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-IDN-005,HpGP-IDN-005_cluster_1,HpGP-IDN-005_00229,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-IDN-005,HpGP-IDN-005_cluster_1,HpGP-IDN-005_00230,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-IDN-005,HpGP-IDN-005_cluster_1,HpGP-IDN-005_00231,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-IDN-005,HpGP-IDN-005_cluster_1,HpGP-IDN-005_00232,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-IDN-005,HpGP-IDN-005_cluster_1,HpGP-IDN-005_00233,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-CRI-001,HpGP-CRI-001_cluster_1,HpGP-CRI-001_01130,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-CRI-001,HpGP-CRI-001_cluster_1,HpGP-CRI-001_01131,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-CRI-001,HpGP-CRI-001_cluster_1,HpGP-CRI-001_01132,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-CRI-001,HpGP-CRI-001_cluster_1,HpGP-CRI-001_01133,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-CRI-001,HpGP-CRI-001_cluster_1,HpGP-CRI-001_01134,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-MAL-008,HpGP-MAL-008_cluster_1,HpGP-MAL-008_00231,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-MAL-008,HpGP-MAL-008_cluster_1,HpGP-MAL-008_00232,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-MAL-008,HpGP-MAL-008_cluster_1,HpGP-MAL-008_00233,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-MAL-008,HpGP-MAL-008_cluster_1,HpGP-MAL-008_00234,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-MAL-008,HpGP-MAL-008_cluster_1,HpGP-MAL-008_00235,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-TWN-026,HpGP-TWN-026_cluster_1,HpGP-TWN-026_00248,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-TWN-026,HpGP-TWN-026_cluster_1,HpGP-TWN-026_00249,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-TWN-026,HpGP-TWN-026_cluster_1,HpGP-TWN-026_00250,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-TWN-026,HpGP-TWN-026_cluster_1,HpGP-TWN-026_00251,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-TWN-026,HpGP-TWN-026_cluster_1,HpGP-TWN-026_00252,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-SGP-024,HpGP-SGP-024_cluster_1,HpGP-SGP-024_00250,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SGP-024,HpGP-SGP-024_cluster_1,HpGP-SGP-024_00251,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SGP-024,HpGP-SGP-024_cluster_1,HpGP-SGP-024_00252,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-SGP-024,HpGP-SGP-024_cluster_1,HpGP-SGP-024_00253,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-SGP-024,HpGP-SGP-024_cluster_1,HpGP-SGP-024_00254,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-USA-424,HpGP-USA-424_cluster_1,HpGP-USA-424_00216,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-USA-424,HpGP-USA-424_cluster_1,HpGP-USA-424_00217,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-USA-424,HpGP-USA-424_cluster_1,HpGP-USA-424_00218,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-USA-424,HpGP-USA-424_cluster_1,HpGP-USA-424_00219,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-USA-424,HpGP-USA-424_cluster_1,HpGP-USA-424_00220,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-PER-124,HpGP-PER-124_cluster_1,HpGP-PER-124_00216,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-PER-124,HpGP-PER-124_cluster_1,HpGP-PER-124_00217,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-PER-124,HpGP-PER-124_cluster_1,HpGP-PER-124_00218,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-PER-124,HpGP-PER-124_cluster_1,HpGP-PER-124_00219,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-PER-124,HpGP-PER-124_cluster_1,HpGP-PER-124_00220,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-SPA-807,HpGP-SPA-807_cluster_1,HpGP-SPA-807_00257,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SPA-807,HpGP-SPA-807_cluster_1,HpGP-SPA-807_00258,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-SPA-807,HpGP-SPA-807_cluster_1,HpGP-SPA-807_00259,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-SPA-807,HpGP-SPA-807_cluster_1,HpGP-SPA-807_00260,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-SPA-807,HpGP-SPA-807_cluster_1,HpGP-SPA-807_00261,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-IND-009,HpGP-IND-009_cluster_1,HpGP-IND-009_00193,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-IND-009,HpGP-IND-009_cluster_1,HpGP-IND-009_00194,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-IND-009,HpGP-IND-009_cluster_1,HpGP-IND-009_00195,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-IND-009,HpGP-IND-009_cluster_1,HpGP-IND-009_00196,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-IND-009,HpGP-IND-009_cluster_1,HpGP-IND-009_00197,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-LAT-027,HpGP-LAT-027_cluster_1,HpGP-LAT-027_00182,HP0217_1,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-LAT-027,HpGP-LAT-027_cluster_1,HpGP-LAT-027_00183,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-LAT-027,HpGP-LAT-027_cluster_1,HpGP-LAT-027_00184,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-LAT-027,HpGP-LAT-027_cluster_1,HpGP-LAT-027_00185,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-LAT-027,HpGP-LAT-027_cluster_1,HpGP-LAT-027_00186,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-COL-102,HpGP-COL-102_cluster_1,HpGP-COL-102_00217,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-COL-102,HpGP-COL-102_cluster_1,HpGP-COL-102_00218,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-COL-102,HpGP-COL-102_cluster_1,HpGP-COL-102_00219,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-COL-102,HpGP-COL-102_cluster_1,HpGP-COL-102_00220,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-COL-102,HpGP-COL-102_cluster_1,HpGP-COL-102_00221,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-GRE-011,HpGP-GRE-011_cluster_1,HpGP-GRE-011_00252,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-GRE-011,HpGP-GRE-011_cluster_1,HpGP-GRE-011_00253,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-GRE-011,HpGP-GRE-011_cluster_1,HpGP-GRE-011_00254,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-GRE-011,HpGP-GRE-011_cluster_1,HpGP-GRE-011_00255,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-GRE-011,HpGP-GRE-011_cluster_1,HpGP-GRE-011_00256,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-LAT-023,HpGP-LAT-023_cluster_1,HpGP-LAT-023_00246,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-LAT-023,HpGP-LAT-023_cluster_1,HpGP-LAT-023_00247,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-LAT-023,HpGP-LAT-023_cluster_1,HpGP-LAT-023_00248,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-LAT-023,HpGP-LAT-023_cluster_1,HpGP-LAT-023_00249,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-LAT-023,HpGP-LAT-023_cluster_1,HpGP-LAT-023_00250,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-KOR-034,HpGP-KOR-034_cluster_1,HpGP-KOR-034_00234,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-KOR-034,HpGP-KOR-034_cluster_1,HpGP-KOR-034_00235,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-KOR-034,HpGP-KOR-034_cluster_1,HpGP-KOR-034_00236,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-KOR-034,HpGP-KOR-034_cluster_1,HpGP-KOR-034_00237,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-KOR-034,HpGP-KOR-034_cluster_1,HpGP-KOR-034_00238,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
-HpGP-COG-005,HpGP-COG-005_cluster_1,HpGP-COG-005_00217,,Mobile element protein TnpA,binding,PF00239,"Resolvase, N-terminal catalytic domain",
-HpGP-COG-005,HpGP-COG-005_cluster_1,HpGP-COG-005_00218,,IS607 mobile element protein TnpB,unknown,,,
-HpGP-COG-005,HpGP-COG-005_cluster_1,HpGP-COG-005_00219,,IS607 mobile element protein TnpB,unknown,PF07282,"Transposase IS605, OrfB, C-terminal",
-HpGP-COG-005,HpGP-COG-005_cluster_1,HpGP-COG-005_00220,HP0217_2,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-COG-005,HpGP-COG-005_cluster_1,HpGP-COG-005_00221,HP0217_3,"Beta-1,4-N-acetylgalactosamyltransferase",unknown,PF06306,"Beta-1,4-N-acetylgalactosaminyltransferase",
-HpGP-COG-005,HpGP-COG-005_cluster_1,HpGP-COG-005_00222,HP0218,Phospholipid-binding protein,unknown,,,
-HpGP-COG-005,HpGP-COG-005_cluster_1,HpGP-COG-005_00223,HP0219,Hypothetical protein HP0219,unknown,,,
-HpGP-COG-005,HpGP-COG-005_cluster_1,HpGP-COG-005_00224,HP0220,Cysteine desulfurase NifS,unknown,PF01041,DegT/DnrJ/EryC1/StrS aminotransferase,
+genome	cluster_id	locus_tag	gene	product	cds_function	domain_id	domain_function	final_call
+HpGP-JOR-005	HpGP-JOR-005_cluster_1	HpGP-JOR-005_00216	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-JOR-005	HpGP-JOR-005_cluster_1	HpGP-JOR-005_00217	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-JOR-005	HpGP-JOR-005_cluster_1	HpGP-JOR-005_00218	HP0218	Phospholipid-binding protein	unknown			
+HpGP-JOR-005	HpGP-JOR-005_cluster_1	HpGP-JOR-005_00219	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-JOR-005	HpGP-JOR-005_cluster_1	HpGP-JOR-005_00220	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-CHI-027	HpGP-CHI-027_cluster_1	HpGP-CHI-027_00213	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-CHI-027	HpGP-CHI-027_cluster_1	HpGP-CHI-027_00214	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-CHI-027	HpGP-CHI-027_cluster_1	HpGP-CHI-027_00215	HP0218	Phospholipid-binding protein	unknown			
+HpGP-CHI-027	HpGP-CHI-027_cluster_1	HpGP-CHI-027_00216	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-CHI-027	HpGP-CHI-027_cluster_1	HpGP-CHI-027_00217	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-FRA-015	HpGP-FRA-015_cluster_1	HpGP-FRA-015_00218	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-FRA-015	HpGP-FRA-015_cluster_1	HpGP-FRA-015_00219	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-FRA-015	HpGP-FRA-015_cluster_1	HpGP-FRA-015_00220	HP0218	Phospholipid-binding protein	unknown			
+HpGP-FRA-015	HpGP-FRA-015_cluster_1	HpGP-FRA-015_00221	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-FRA-015	HpGP-FRA-015_cluster_1	HpGP-FRA-015_00222	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-PER-112	HpGP-PER-112_cluster_1	HpGP-PER-112_00216	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-PER-112	HpGP-PER-112_cluster_1	HpGP-PER-112_00217	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-PER-112	HpGP-PER-112_cluster_1	HpGP-PER-112_00218	HP0218	Phospholipid-binding protein	unknown			
+HpGP-PER-112	HpGP-PER-112_cluster_1	HpGP-PER-112_00219	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-PER-112	HpGP-PER-112_cluster_1	HpGP-PER-112_00220	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-BGR-006	HpGP-BGR-006_cluster_1	HpGP-BGR-006_00217	hypothetical protein	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase		
+HpGP-BGR-006	HpGP-BGR-006_cluster_1	HpGP-BGR-006_00218	HP0217	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-BGR-006	HpGP-BGR-006_cluster_1	HpGP-BGR-006_00219	HP0218	Phospholipid-binding protein	unknown			
+HpGP-BGR-006	HpGP-BGR-006_cluster_1	HpGP-BGR-006_00220	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-BGR-006	HpGP-BGR-006_cluster_1	HpGP-BGR-006_00221	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-SGP-036	HpGP-SGP-036_cluster_1	HpGP-SGP-036_01117	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-SGP-036	HpGP-SGP-036_cluster_1	HpGP-SGP-036_01118	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-SGP-036	HpGP-SGP-036_cluster_1	HpGP-SGP-036_01119	HP0218	Phospholipid-binding protein	unknown			
+HpGP-SGP-036	HpGP-SGP-036_cluster_1	HpGP-SGP-036_01120	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SGP-036	HpGP-SGP-036_cluster_1	HpGP-SGP-036_01121	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SGP-002	HpGP-SGP-002_cluster_2	HpGP-SGP-002_00670	hypothetical protein	unknown	PF01755	Glycosyl transferase, family 25		
+HpGP-SGP-002	HpGP-SGP-002_cluster_2	HpGP-SGP-002_00671	hypothetical protein	unknown	PF01755	Glycosyl transferase, family 25		
+HpGP-SGP-002	HpGP-SGP-002_cluster_2	HpGP-SGP-002_00672	hypothetical protein	unknown	PF01755	Glycosyl transferase, family 25		
+HpGP-MMR-006	HpGP-MMR-006_cluster_1	HpGP-MMR-006_00220	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-MMR-006	HpGP-MMR-006_cluster_1	HpGP-MMR-006_00221	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-MMR-006	HpGP-MMR-006_cluster_1	HpGP-MMR-006_00222	HP0218	Phospholipid-binding protein	unknown			
+HpGP-MMR-006	HpGP-MMR-006_cluster_1	HpGP-MMR-006_00223	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-MMR-006	HpGP-MMR-006_cluster_1	HpGP-MMR-006_00224	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-BGD-003	HpGP-BGD-003_cluster_1	HpGP-BGD-003_00247	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-BGD-003	HpGP-BGD-003_cluster_1	HpGP-BGD-003_00248	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-BGD-003	HpGP-BGD-003_cluster_1	HpGP-BGD-003_00249	HP0218	Phospholipid-binding protein	unknown			
+HpGP-BGD-003	HpGP-BGD-003_cluster_1	HpGP-BGD-003_00250	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-BGD-003	HpGP-BGD-003_cluster_1	HpGP-BGD-003_00251	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-SPA-313	HpGP-SPA-313_cluster_1	HpGP-SPA-313_00209	HP0207	ATP-binding protein Mpr	unknown	PF01883	MIP18 family-like	
+HpGP-SPA-313	HpGP-SPA-313_cluster_1	HpGP-SPA-313_00209	HP0207	ATP-binding protein Mpr	unknown	PF10609	Flagellum site-determining protein YlxH/ Fe-S cluster assembling factor NBP35	
+HpGP-SPA-313	HpGP-SPA-313_cluster_1	HpGP-SPA-313_00209	HP0207	ATP-binding protein Mpr	unknown	PF13614	AAA domain	
+HpGP-SPA-313	HpGP-SPA-313_cluster_1	HpGP-SPA-313_00209	HP0207	ATP-binding protein Mpr	unknown	PF09140	ATPase MipZ	
+HpGP-SPA-313	HpGP-SPA-313_cluster_1	HpGP-SPA-313_00209	HP0207	ATP-binding protein Mpr	unknown	PF01656	CobQ/CobB/MinD/ParA nucleotide binding domain	
+HpGP-SPA-313	HpGP-SPA-313_cluster_1	HpGP-SPA-313_00210	HP0208	Lipopolysaccharide biosynthesis protein	unknown			
+HpGP-SPA-313	HpGP-SPA-313_cluster_1	HpGP-SPA-313_00211	hypothetical protein	unknown				
+HpGP-SPA-313	HpGP-SPA-313_cluster_1	HpGP-SPA-313_00212	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown			
+HpGP-SPA-313	HpGP-SPA-313_cluster_1	HpGP-SPA-313_00213	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SPA-313	HpGP-SPA-313_cluster_1	HpGP-SPA-313_00214	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SPA-313	HpGP-SPA-313_cluster_1	HpGP-SPA-313_00215	HP0218	Phospholipid-binding protein	unknown			
+HpGP-SPA-313	HpGP-SPA-313_cluster_1	HpGP-SPA-313_00216	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-SPA-313	HpGP-SPA-313_cluster_1	HpGP-SPA-313_00217	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-SWE-001	HpGP-SWE-001_cluster_1	HpGP-SWE-001_00215	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SWE-001	HpGP-SWE-001_cluster_1	HpGP-SWE-001_00216	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SWE-001	HpGP-SWE-001_cluster_1	HpGP-SWE-001_00217	HP0218	Phospholipid-binding protein	unknown			
+HpGP-SWE-001	HpGP-SWE-001_cluster_1	HpGP-SWE-001_00218	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-SWE-001	HpGP-SWE-001_cluster_1	HpGP-SWE-001_00219	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-CHI-026	HpGP-CHI-026_cluster_1	HpGP-CHI-026_00220	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-CHI-026	HpGP-CHI-026_cluster_1	HpGP-CHI-026_00221	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-CHI-026	HpGP-CHI-026_cluster_1	HpGP-CHI-026_00222	HP0218	Phospholipid-binding protein	unknown			
+HpGP-CHI-026	HpGP-CHI-026_cluster_1	HpGP-CHI-026_00223	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-CHI-026	HpGP-CHI-026_cluster_1	HpGP-CHI-026_00224	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-FRA-001	HpGP-FRA-001_cluster_1	HpGP-FRA-001_01366	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-FRA-001	HpGP-FRA-001_cluster_1	HpGP-FRA-001_01367	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-FRA-001	HpGP-FRA-001_cluster_1	HpGP-FRA-001_01368	HP0218	Phospholipid-binding protein	unknown			
+HpGP-FRA-001	HpGP-FRA-001_cluster_1	HpGP-FRA-001_01369	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-FRA-001	HpGP-FRA-001_cluster_1	HpGP-FRA-001_01370	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SGP-004	HpGP-SGP-004_cluster_1	HpGP-SGP-004_00260	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SGP-004	HpGP-SGP-004_cluster_1	HpGP-SGP-004_00261	HP0218_1	Phospholipid-binding protein	unknown			
+HpGP-SGP-004	HpGP-SGP-004_cluster_1	HpGP-SGP-004_00262	HP0219_1	Hypothetical protein HP0219	unknown			
+HpGP-SGP-004	HpGP-SGP-004_cluster_1	HpGP-SGP-004_00263	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SGP-004	HpGP-SGP-004_cluster_1	HpGP-SGP-004_00264	HP0218_2	Phospholipid-binding protein	unknown			
+HpGP-SGP-004	HpGP-SGP-004_cluster_1	HpGP-SGP-004_00265	HP0219_2	Hypothetical protein HP0219	unknown			
+HpGP-SGP-004	HpGP-SGP-004_cluster_1	HpGP-SGP-004_00266	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-KOR-048	HpGP-KOR-048_cluster_1	HpGP-KOR-048_00249	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-KOR-048	HpGP-KOR-048_cluster_1	HpGP-KOR-048_00250	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-KOR-048	HpGP-KOR-048_cluster_1	HpGP-KOR-048_00251	HP0218	Phospholipid-binding protein	unknown			
+HpGP-KOR-048	HpGP-KOR-048_cluster_1	HpGP-KOR-048_00252	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-KOR-048	HpGP-KOR-048_cluster_1	HpGP-KOR-048_00253	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-MAL-002	HpGP-MAL-002_cluster_1	HpGP-MAL-002_00188	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-MAL-002	HpGP-MAL-002_cluster_1	HpGP-MAL-002_00189	HP0218_1	Phospholipid-binding protein	unknown			
+HpGP-MAL-002	HpGP-MAL-002_cluster_1	HpGP-MAL-002_00190	HP0219_1	Hypothetical protein HP0219	unknown			
+HpGP-MAL-002	HpGP-MAL-002_cluster_1	HpGP-MAL-002_00191	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-MAL-002	HpGP-MAL-002_cluster_1	HpGP-MAL-002_00192	HP0218_2	Phospholipid-binding protein	unknown			
+HpGP-MAL-002	HpGP-MAL-002_cluster_1	HpGP-MAL-002_00193	HP0219_2	Hypothetical protein HP0219	unknown			
+HpGP-MAL-002	HpGP-MAL-002_cluster_1	HpGP-MAL-002_00194	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00147	HP0132_1	L-serine ammonia-lyase SdaA, SdaB	unknown	PF03313	Serine dehydratase-like, alpha subunit	
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00148	HP0132_2	L-serine ammonia-lyase SdaA, SdaB	binding	PF03315	Serine dehydratase beta chain	
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00149	HP0133_1	Serine transporter SdaC	unknown			
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00150	HP0133_2	Serine transporter SdaC	unknown			
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00151	hypothetical protein	catalytic activity	PF01474	DAHP synthetase, class II		
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00152	HP0134_1	3-deoxy-7-phosphoheptulonate synthase	catalytic activity	PF01474	DAHP synthetase, class II	
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00153	HP0134_2	3-deoxy-7-phosphoheptulonate synthase	catalytic activity	PF01474	DAHP synthetase, class II	
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00154	HP0134_3	3-deoxy-7-phosphoheptulonate synthase	catalytic activity	PF01474	DAHP synthetase, class II	
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00155	HP0135	Hypothetical protein HP0135	unknown			
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00156	HP0136	Bacterioferritin comigratory protein	antioxidant activity	PF00578	Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant	
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00156	HP0136	Bacterioferritin comigratory protein	antioxidant activity	PF08534	Redoxin	
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00157	HP0137	Hypothetical protein HP0137	unknown	PF02589	LUD domain	
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00158	HP0138	Iron-sulfur cluster binding protein	unknown	PF02589	LUD domain	
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00158	HP0138	Iron-sulfur cluster binding protein	unknown	PF13183	4Fe-4S ferredoxin-type, iron-sulphur binding domain	
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00158	HP0138	Iron-sulfur cluster binding protein	unknown	PF12838	4Fe-4S ferredoxin-type, iron-sulphur binding domain	
+HpGP-PRI-002	HpGP-PRI-002_cluster_1	HpGP-PRI-002_00158	HP0138	Iron-sulfur cluster binding protein	unknown	PF13534	e-value: 1.9077701743546364e-08	
+HpGP-PRI-002	HpGP-PRI-002_cluster_2	HpGP-PRI-002_00178	HP0154_2	Enolase Eno	unknown	PF00113	Enolase, C-terminal TIM barrel domain	
+HpGP-PRI-002	HpGP-PRI-002_cluster_2	HpGP-PRI-002_00179	HP0154_3	Enolase Eno	unknown	PF00113	Enolase, C-terminal TIM barrel domain	
+HpGP-PRI-002	HpGP-PRI-002_cluster_2	HpGP-PRI-002_00180	HP0154_4	Enolase Eno	unknown	PF00113	Enolase, C-terminal TIM barrel domain	
+HpGP-SPA-016	HpGP-SPA-016_cluster_1	HpGP-SPA-016_00216	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SPA-016	HpGP-SPA-016_cluster_1	HpGP-SPA-016_00217	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SPA-016	HpGP-SPA-016_cluster_1	HpGP-SPA-016_00218	HP0218	Phospholipid-binding protein	unknown			
+HpGP-SPA-016	HpGP-SPA-016_cluster_1	HpGP-SPA-016_00219	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-SPA-016	HpGP-SPA-016_cluster_1	HpGP-SPA-016_00220	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-ITA-007	HpGP-ITA-007_cluster_1	HpGP-ITA-007_00215	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-ITA-007	HpGP-ITA-007_cluster_1	HpGP-ITA-007_00216	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-ITA-007	HpGP-ITA-007_cluster_1	HpGP-ITA-007_00217	HP0218	Phospholipid-binding protein	unknown			
+HpGP-ITA-007	HpGP-ITA-007_cluster_1	HpGP-ITA-007_00218	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-ITA-007	HpGP-ITA-007_cluster_1	HpGP-ITA-007_00219	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-SWT-006	HpGP-SWT-006_cluster_1	HpGP-SWT-006_00260	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SWT-006	HpGP-SWT-006_cluster_1	HpGP-SWT-006_00261	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SWT-006	HpGP-SWT-006_cluster_1	HpGP-SWT-006_00262	HP0218	Phospholipid-binding protein	unknown			
+HpGP-SWT-006	HpGP-SWT-006_cluster_1	HpGP-SWT-006_00263	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-SWT-006	HpGP-SWT-006_cluster_1	HpGP-SWT-006_00264	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-CHI-124	HpGP-CHI-124_cluster_1	HpGP-CHI-124_00225	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-CHI-124	HpGP-CHI-124_cluster_1	HpGP-CHI-124_00226	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-CHI-124	HpGP-CHI-124_cluster_1	HpGP-CHI-124_00227	HP0217_4	Beta-1,4-N-acetylgalactosamyltransferase	unknown			
+HpGP-CHI-124	HpGP-CHI-124_cluster_1	HpGP-CHI-124_00228	HP0218	Phospholipid-binding protein	unknown			
+HpGP-CHI-124	HpGP-CHI-124_cluster_1	HpGP-CHI-124_00229	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-CHI-124	HpGP-CHI-124_cluster_1	HpGP-CHI-124_00230	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-COL-306	HpGP-COL-306_cluster_1	HpGP-COL-306_00216	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-COL-306	HpGP-COL-306_cluster_1	HpGP-COL-306_00217	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-COL-306	HpGP-COL-306_cluster_1	HpGP-COL-306_00218	HP0218	Phospholipid-binding protein	unknown			
+HpGP-COL-306	HpGP-COL-306_cluster_1	HpGP-COL-306_00219	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-COL-306	HpGP-COL-306_cluster_1	HpGP-COL-306_00220	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-PRI-005	HpGP-PRI-005_cluster_1	HpGP-PRI-005_00224	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-PRI-005	HpGP-PRI-005_cluster_1	HpGP-PRI-005_00225	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-PRI-005	HpGP-PRI-005_cluster_1	HpGP-PRI-005_00226	HP0218	Phospholipid-binding protein	unknown			
+HpGP-PRI-005	HpGP-PRI-005_cluster_1	HpGP-PRI-005_00227	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-PRI-005	HpGP-PRI-005_cluster_1	HpGP-PRI-005_00228	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-SPA-315	HpGP-SPA-315_cluster_1	HpGP-SPA-315_00216	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SPA-315	HpGP-SPA-315_cluster_1	HpGP-SPA-315_00217	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SPA-315	HpGP-SPA-315_cluster_1	HpGP-SPA-315_00218	HP0218	Phospholipid-binding protein	unknown			
+HpGP-SPA-315	HpGP-SPA-315_cluster_1	HpGP-SPA-315_00219	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-SPA-315	HpGP-SPA-315_cluster_1	HpGP-SPA-315_00220	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-CHI-004	HpGP-CHI-004_cluster_1	HpGP-CHI-004_00214	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-CHI-004	HpGP-CHI-004_cluster_1	HpGP-CHI-004_00215	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-CHI-004	HpGP-CHI-004_cluster_1	HpGP-CHI-004_00216	HP0218	Phospholipid-binding protein	unknown			
+HpGP-CHI-004	HpGP-CHI-004_cluster_1	HpGP-CHI-004_00217	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-CHI-004	HpGP-CHI-004_cluster_1	HpGP-CHI-004_00218	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-JAP-009	HpGP-JAP-009_cluster_1	HpGP-JAP-009_00283	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-JAP-009	HpGP-JAP-009_cluster_1	HpGP-JAP-009_00284	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-JAP-009	HpGP-JAP-009_cluster_1	HpGP-JAP-009_00285	HP0218	Phospholipid-binding protein	unknown			
+HpGP-JAP-009	HpGP-JAP-009_cluster_1	HpGP-JAP-009_00286	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-JAP-009	HpGP-JAP-009_cluster_1	HpGP-JAP-009_00287	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-SWE-034	HpGP-SWE-034_cluster_1	HpGP-SWE-034_00220	hypothetical protein	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase		
+HpGP-SWE-034	HpGP-SWE-034_cluster_1	HpGP-SWE-034_00221	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SWE-034	HpGP-SWE-034_cluster_1	HpGP-SWE-034_00222	HP0218	Phospholipid-binding protein	unknown			
+HpGP-SWE-034	HpGP-SWE-034_cluster_1	HpGP-SWE-034_00223	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-SWE-034	HpGP-SWE-034_cluster_1	HpGP-SWE-034_00224	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-GER-001	HpGP-GER-001_cluster_2	HpGP-GER-001_01433	HP0220_2	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-GER-001	HpGP-GER-001_cluster_2	HpGP-GER-001_01434	HP0219_2	Hypothetical protein HP0219	unknown			
+HpGP-GER-001	HpGP-GER-001_cluster_2	HpGP-GER-001_01435	HP0218_2	Phospholipid-binding protein	unknown			
+HpGP-GER-001	HpGP-GER-001_cluster_2	HpGP-GER-001_01436	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-GER-001	HpGP-GER-001_cluster_2	HpGP-GER-001_01437	IS607 mobile element protein TnpB	unknown	PF07282	Transposase IS605, OrfB, C-terminal		
+HpGP-GER-001	HpGP-GER-001_cluster_2	HpGP-GER-001_01438	Mobile element protein TnpA	binding	PF00239	Resolvase, N-terminal catalytic domain		
+HpGP-GER-001	HpGP-GER-001_cluster_2	HpGP-GER-001_01439	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-GMB-009	HpGP-GMB-009_cluster_1	HpGP-GMB-009_00215	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-GMB-009	HpGP-GMB-009_cluster_1	HpGP-GMB-009_00216	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-GMB-009	HpGP-GMB-009_cluster_1	HpGP-GMB-009_00217	HP0218	Phospholipid-binding protein	unknown			
+HpGP-GMB-009	HpGP-GMB-009_cluster_1	HpGP-GMB-009_00218	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-GMB-009	HpGP-GMB-009_cluster_1	HpGP-GMB-009_00219	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-MAL-025	HpGP-MAL-025_cluster_1	HpGP-MAL-025_00256	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-MAL-025	HpGP-MAL-025_cluster_1	HpGP-MAL-025_00257	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-MAL-025	HpGP-MAL-025_cluster_1	HpGP-MAL-025_00258	HP0218	Phospholipid-binding protein	unknown			
+HpGP-MAL-025	HpGP-MAL-025_cluster_1	HpGP-MAL-025_00259	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-MAL-025	HpGP-MAL-025_cluster_1	HpGP-MAL-025_00260	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-IND-007	HpGP-IND-007_cluster_1	HpGP-IND-007_00260	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-IND-007	HpGP-IND-007_cluster_1	HpGP-IND-007_00261	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-IND-007	HpGP-IND-007_cluster_1	HpGP-IND-007_00262	HP0218	Phospholipid-binding protein	unknown			
+HpGP-IND-007	HpGP-IND-007_cluster_1	HpGP-IND-007_00263	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-IND-007	HpGP-IND-007_cluster_1	HpGP-IND-007_00264	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-PER-110	HpGP-PER-110_cluster_1	HpGP-PER-110_00208	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-PER-110	HpGP-PER-110_cluster_1	HpGP-PER-110_00209	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-PER-110	HpGP-PER-110_cluster_1	HpGP-PER-110_00210	HP0218	Phospholipid-binding protein	unknown			
+HpGP-PER-110	HpGP-PER-110_cluster_1	HpGP-PER-110_00211	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-PER-110	HpGP-PER-110_cluster_1	HpGP-PER-110_00212	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-SPA-019	HpGP-SPA-019_cluster_1	HpGP-SPA-019_00233	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SPA-019	HpGP-SPA-019_cluster_1	HpGP-SPA-019_00234	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SPA-019	HpGP-SPA-019_cluster_1	HpGP-SPA-019_00235	HP0218	Phospholipid-binding protein	unknown			
+HpGP-SPA-019	HpGP-SPA-019_cluster_1	HpGP-SPA-019_00236	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-SPA-019	HpGP-SPA-019_cluster_1	HpGP-SPA-019_00237	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-CAN-022	HpGP-CAN-022_cluster_1	HpGP-CAN-022_00235	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-CAN-022	HpGP-CAN-022_cluster_1	HpGP-CAN-022_00236	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-CAN-022	HpGP-CAN-022_cluster_1	HpGP-CAN-022_00237	HP0218	Phospholipid-binding protein	unknown			
+HpGP-CAN-022	HpGP-CAN-022_cluster_1	HpGP-CAN-022_00238	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-CAN-022	HpGP-CAN-022_cluster_1	HpGP-CAN-022_00239	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-COL-112	HpGP-COL-112_cluster_1	HpGP-COL-112_00215	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-COL-112	HpGP-COL-112_cluster_1	HpGP-COL-112_00216	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-COL-112	HpGP-COL-112_cluster_1	HpGP-COL-112_00217	HP0218	Phospholipid-binding protein	unknown			
+HpGP-COL-112	HpGP-COL-112_cluster_1	HpGP-COL-112_00218	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-COL-112	HpGP-COL-112_cluster_1	HpGP-COL-112_00219	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-ISL-007	HpGP-ISL-007_cluster_1	HpGP-ISL-007_00970	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-ISL-007	HpGP-ISL-007_cluster_1	HpGP-ISL-007_00971	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-ISL-007	HpGP-ISL-007_cluster_1	HpGP-ISL-007_00972	HP0218	Phospholipid-binding protein	unknown			
+HpGP-ISL-007	HpGP-ISL-007_cluster_1	HpGP-ISL-007_00973	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-ISL-007	HpGP-ISL-007_cluster_1	HpGP-ISL-007_00974	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-FRA-004	HpGP-FRA-004_cluster_1	HpGP-FRA-004_00214	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-FRA-004	HpGP-FRA-004_cluster_1	HpGP-FRA-004_00215	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-FRA-004	HpGP-FRA-004_cluster_1	HpGP-FRA-004_00216	HP0218	Phospholipid-binding protein	unknown			
+HpGP-FRA-004	HpGP-FRA-004_cluster_1	HpGP-FRA-004_00217	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-FRA-004	HpGP-FRA-004_cluster_1	HpGP-FRA-004_00218	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-IDN-005	HpGP-IDN-005_cluster_1	HpGP-IDN-005_00229	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-IDN-005	HpGP-IDN-005_cluster_1	HpGP-IDN-005_00230	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-IDN-005	HpGP-IDN-005_cluster_1	HpGP-IDN-005_00231	HP0218	Phospholipid-binding protein	unknown			
+HpGP-IDN-005	HpGP-IDN-005_cluster_1	HpGP-IDN-005_00232	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-IDN-005	HpGP-IDN-005_cluster_1	HpGP-IDN-005_00233	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-CRI-001	HpGP-CRI-001_cluster_1	HpGP-CRI-001_01130	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-CRI-001	HpGP-CRI-001_cluster_1	HpGP-CRI-001_01131	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-CRI-001	HpGP-CRI-001_cluster_1	HpGP-CRI-001_01132	HP0218	Phospholipid-binding protein	unknown			
+HpGP-CRI-001	HpGP-CRI-001_cluster_1	HpGP-CRI-001_01133	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-CRI-001	HpGP-CRI-001_cluster_1	HpGP-CRI-001_01134	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-MAL-008	HpGP-MAL-008_cluster_1	HpGP-MAL-008_00231	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-MAL-008	HpGP-MAL-008_cluster_1	HpGP-MAL-008_00232	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-MAL-008	HpGP-MAL-008_cluster_1	HpGP-MAL-008_00233	HP0218	Phospholipid-binding protein	unknown			
+HpGP-MAL-008	HpGP-MAL-008_cluster_1	HpGP-MAL-008_00234	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-MAL-008	HpGP-MAL-008_cluster_1	HpGP-MAL-008_00235	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-TWN-026	HpGP-TWN-026_cluster_1	HpGP-TWN-026_00248	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-TWN-026	HpGP-TWN-026_cluster_1	HpGP-TWN-026_00249	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-TWN-026	HpGP-TWN-026_cluster_1	HpGP-TWN-026_00250	HP0218	Phospholipid-binding protein	unknown			
+HpGP-TWN-026	HpGP-TWN-026_cluster_1	HpGP-TWN-026_00251	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-TWN-026	HpGP-TWN-026_cluster_1	HpGP-TWN-026_00252	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-SGP-024	HpGP-SGP-024_cluster_1	HpGP-SGP-024_00250	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SGP-024	HpGP-SGP-024_cluster_1	HpGP-SGP-024_00251	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SGP-024	HpGP-SGP-024_cluster_1	HpGP-SGP-024_00252	HP0218	Phospholipid-binding protein	unknown			
+HpGP-SGP-024	HpGP-SGP-024_cluster_1	HpGP-SGP-024_00253	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-SGP-024	HpGP-SGP-024_cluster_1	HpGP-SGP-024_00254	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-USA-424	HpGP-USA-424_cluster_1	HpGP-USA-424_00216	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-USA-424	HpGP-USA-424_cluster_1	HpGP-USA-424_00217	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-USA-424	HpGP-USA-424_cluster_1	HpGP-USA-424_00218	HP0218	Phospholipid-binding protein	unknown			
+HpGP-USA-424	HpGP-USA-424_cluster_1	HpGP-USA-424_00219	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-USA-424	HpGP-USA-424_cluster_1	HpGP-USA-424_00220	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-PER-124	HpGP-PER-124_cluster_1	HpGP-PER-124_00216	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-PER-124	HpGP-PER-124_cluster_1	HpGP-PER-124_00217	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-PER-124	HpGP-PER-124_cluster_1	HpGP-PER-124_00218	HP0218	Phospholipid-binding protein	unknown			
+HpGP-PER-124	HpGP-PER-124_cluster_1	HpGP-PER-124_00219	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-PER-124	HpGP-PER-124_cluster_1	HpGP-PER-124_00220	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-SPA-807	HpGP-SPA-807_cluster_1	HpGP-SPA-807_00257	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SPA-807	HpGP-SPA-807_cluster_1	HpGP-SPA-807_00258	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-SPA-807	HpGP-SPA-807_cluster_1	HpGP-SPA-807_00259	HP0218	Phospholipid-binding protein	unknown			
+HpGP-SPA-807	HpGP-SPA-807_cluster_1	HpGP-SPA-807_00260	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-SPA-807	HpGP-SPA-807_cluster_1	HpGP-SPA-807_00261	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-IND-009	HpGP-IND-009_cluster_1	HpGP-IND-009_00193	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-IND-009	HpGP-IND-009_cluster_1	HpGP-IND-009_00194	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-IND-009	HpGP-IND-009_cluster_1	HpGP-IND-009_00195	HP0218	Phospholipid-binding protein	unknown			
+HpGP-IND-009	HpGP-IND-009_cluster_1	HpGP-IND-009_00196	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-IND-009	HpGP-IND-009_cluster_1	HpGP-IND-009_00197	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-LAT-027	HpGP-LAT-027_cluster_1	HpGP-LAT-027_00182	HP0217_1	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-LAT-027	HpGP-LAT-027_cluster_1	HpGP-LAT-027_00183	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-LAT-027	HpGP-LAT-027_cluster_1	HpGP-LAT-027_00184	HP0218	Phospholipid-binding protein	unknown			
+HpGP-LAT-027	HpGP-LAT-027_cluster_1	HpGP-LAT-027_00185	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-LAT-027	HpGP-LAT-027_cluster_1	HpGP-LAT-027_00186	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-COL-102	HpGP-COL-102_cluster_1	HpGP-COL-102_00217	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-COL-102	HpGP-COL-102_cluster_1	HpGP-COL-102_00218	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-COL-102	HpGP-COL-102_cluster_1	HpGP-COL-102_00219	HP0218	Phospholipid-binding protein	unknown			
+HpGP-COL-102	HpGP-COL-102_cluster_1	HpGP-COL-102_00220	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-COL-102	HpGP-COL-102_cluster_1	HpGP-COL-102_00221	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-GRE-011	HpGP-GRE-011_cluster_1	HpGP-GRE-011_00252	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-GRE-011	HpGP-GRE-011_cluster_1	HpGP-GRE-011_00253	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-GRE-011	HpGP-GRE-011_cluster_1	HpGP-GRE-011_00254	HP0218	Phospholipid-binding protein	unknown			
+HpGP-GRE-011	HpGP-GRE-011_cluster_1	HpGP-GRE-011_00255	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-GRE-011	HpGP-GRE-011_cluster_1	HpGP-GRE-011_00256	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-LAT-023	HpGP-LAT-023_cluster_1	HpGP-LAT-023_00246	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-LAT-023	HpGP-LAT-023_cluster_1	HpGP-LAT-023_00247	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-LAT-023	HpGP-LAT-023_cluster_1	HpGP-LAT-023_00248	HP0218	Phospholipid-binding protein	unknown			
+HpGP-LAT-023	HpGP-LAT-023_cluster_1	HpGP-LAT-023_00249	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-LAT-023	HpGP-LAT-023_cluster_1	HpGP-LAT-023_00250	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-KOR-034	HpGP-KOR-034_cluster_1	HpGP-KOR-034_00234	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-KOR-034	HpGP-KOR-034_cluster_1	HpGP-KOR-034_00235	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-KOR-034	HpGP-KOR-034_cluster_1	HpGP-KOR-034_00236	HP0218	Phospholipid-binding protein	unknown			
+HpGP-KOR-034	HpGP-KOR-034_cluster_1	HpGP-KOR-034_00237	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-KOR-034	HpGP-KOR-034_cluster_1	HpGP-KOR-034_00238	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
+HpGP-COG-005	HpGP-COG-005_cluster_1	HpGP-COG-005_00217	Mobile element protein TnpA	binding	PF00239	Resolvase, N-terminal catalytic domain		
+HpGP-COG-005	HpGP-COG-005_cluster_1	HpGP-COG-005_00218	IS607 mobile element protein TnpB	unknown				
+HpGP-COG-005	HpGP-COG-005_cluster_1	HpGP-COG-005_00219	IS607 mobile element protein TnpB	unknown	PF07282	Transposase IS605, OrfB, C-terminal		
+HpGP-COG-005	HpGP-COG-005_cluster_1	HpGP-COG-005_00220	HP0217_2	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-COG-005	HpGP-COG-005_cluster_1	HpGP-COG-005_00221	HP0217_3	Beta-1,4-N-acetylgalactosamyltransferase	unknown	PF06306	Beta-1,4-N-acetylgalactosaminyltransferase	
+HpGP-COG-005	HpGP-COG-005_cluster_1	HpGP-COG-005_00222	HP0218	Phospholipid-binding protein	unknown			
+HpGP-COG-005	HpGP-COG-005_cluster_1	HpGP-COG-005_00223	HP0219	Hypothetical protein HP0219	unknown			
+HpGP-COG-005	HpGP-COG-005_cluster_1	HpGP-COG-005_00224	HP0220	Cysteine desulfurase NifS	unknown	PF01041	DegT/DnrJ/EryC1/StrS aminotransferase	
