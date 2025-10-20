@@ -1,0 +1,234 @@
+LOCUS       HpGP-BGR-006_cluster_1  3470 bp    DNA     linear   BCT 15-AUG-2025
+DEFINITION  Helicobacter pylori strain HpGP-BGR-006.
+ACCESSION   HpGP-BGR-006_cluster_1
+VERSION     HpGP-BGR-006_cluster_1
+KEYWORDS    .
+SOURCE      Helicobacter pylori
+  ORGANISM  Helicobacter pylori
+            Bacteria; Proteobacteria; epsilon subdivision; Helicobacter group;
+            Helicobacter.
+REFERENCE   1
+  AUTHORS   Laura M Carroll, Martin Larralde, Jonas Simon Fleck, Ruby
+            Ponnudurai, Alessio Milanese, Elisa Cappio Barazzone, Georg Zeller
+  TITLE     Accurate de novo identification of biosynthetic gene clusters with
+            GECCO
+  JOURNAL   bioRxiv (2021.05.03.442509)
+  REMARK    doi:10.1101/2021.05.03.442509
+COMMENT     ##GECCO-Data-START##
+            version                :: GECCO v0.9.10
+            creation_date          :: 2025-08-15T16:41:51.324296
+            cluster_type           :: Unknown
+            alkaloid_probability   :: 0.041
+            nrp_probability        :: 0.190
+            polyketide_probability :: 0.222
+            ripp_probability       :: 0.162
+            saccharide_probability :: 0.080
+            terpene_probability    :: 0.079
+            ##GECCO-Data-END##
+            Annotated using prokka 1.14.5 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     CDS             1..315
+                     /locus_tag="HpGP-BGR-006_00217"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MGGGHLEDRVIHPTLTLPNPTHSGYFDYDKKSQNPKSPLNRVIHP
+                     TLTLPNPTHSGYFDYDKKSQNPKSPLNPWAFIRVKNEIVTLEESLFSMLPAIQRGGHWF
+                     "
+     CDS             341..958
+                     /gene="HP0217"
+                     /locus_tag="HpGP-BGR-006_00218"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07286.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Beta-1,4-N-acetylgalactosamyltransferase"
+                     /translation="MILEFCKKFPSFIPISYPYEVMLKDCPSLWHQLYHYCNYTLSFIP
+                     KNEWVVKIDCDHIYDAKKLYESFYIPKSIKEIVMYSRINFVVQDFEVFVRNDGDFGFLD
+                     AWGDQWLLYNDCEPFEIWHYSDESYEVLKLKDKHHIRDKEMVQWHFPLAKKRRNAIVDN
+                     DLIPLKEFKKHHADLIGTKIEESMLDEKRILEMYQKFNLAER"
+     CDS             complement(974..1525)
+                     /gene="HP0218"
+                     /locus_tag="HpGP-BGR-006_00219"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07287.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Phospholipid-binding protein"
+                     /translation="MKTFEVMIQTDSEGYLDAKFGGNAPRGFLNPNGLPTYSPKISWQK
+                     VEGAQSYALELIDHDAQKVCGMPFVHWVVGNISHNVLEENASMMDKRITQGVNSLTQGF
+                     IRSPLNESEKQRSNLNNSVYIGPMPPNGDHHYLIQVYALDIPKLALKAPFFLGDLHDKM
+                     RNHIIAIGRKEFLYKQFVRK"
+     CDS             1633..2133
+                     /gene="HP0219"
+                     /locus_tag="HpGP-BGR-006_00220"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07295.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Hypothetical protein HP0219"
+                     /translation="MNSYLFLLVTIERMESKINRLSAKIDALLEQQKRVISLLETYLSV
+                     YPAQEASNKFFKSVSQGMELAPEIAQEDEEKRLYVLQYLSHVDITKNKQDSQLKKDCLE
+                     FIQRFNVPKPIIVTALYNLRGIKPTKKEVAKQLQKLYVWEKRYQQGGIDALKDRRGRPL
+                     KKP"
+     CDS             2307..3470
+                     /gene="HP0220"
+                     /locus_tag="HpGP-BGR-006_00221"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07288.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Cysteine desulfurase NifS"
+                     /translation="MLQRIYLDNNATTRIDPKVKEIMDPFLRDHYGNPSSLHQFGTETH
+                     PAIAEALDKLYKGINARDIDDVIITSCATESNNWVLKGVYFDECLKKGKNHIITTVAEH
+                     PAVRSTCNFLESLGVEVTYLPINEHGSITAEQVKEAITEKTALVSVMWANNETGLIFPI
+                     EEIGAICKEKGVLFHTDAVQAIGKIPVDVLKANVDFLSFSAHKFHGPKGIGGLYIRSGV
+                     GLTPLFHGGEHMNGRRSGTLNVPYIVGMGEAMKLAVEHLDYEKEVVGKLRDKLEEALLK
+                     IPDVMVVGDRIHRVPNTTLVSVRGIEGEAMLWDLNRSNIAASTGSACASEDLEANPVMV
+                     AIGASKELAHTAIRLSLSRFNTEAEIDKTIEVFSQAAIRLRNISSSY"
+     CDS             1..315
+                     /locus_tag="HpGP-BGR-006_00217"
+                     /translation="MGGGHLEDRVIHPTLTLPNPTHSGYFDYDKKSQNPKSPLNRVIHP
+                     TLTLPNPTHSGYFDYDKKSQNPKSPLNPWAFIRVKNEIVTLEESLFSMLPAIQRGGHWF
+                     "
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    157..300
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF06306"
+                     /db_xref="InterPro:IPR010446"
+                     /note="e-value: 2.3950409329855484e-21"
+                     /note="p-value: 8.658860929087305e-25"
+                     /function="Beta-1,4-N-acetylgalactosaminyltransferase"
+                     /standard_name="PF06306"
+     CDS             341..958
+                     /locus_tag="HpGP-BGR-006_00218"
+                     /translation="MILEFCKKFPSFIPISYPYEVMLKDCPSLWHQLYHYCNYTLSFIP
+                     KNEWVVKIDCDHIYDAKKLYESFYIPKSIKEIVMYSRINFVVQDFEVFVRNDGDFGFLD
+                     AWGDQWLLYNDCEPFEIWHYSDESYEVLKLKDKHHIRDKEMVQWHFPLAKKRRNAIVDN
+                     DLIPLKEFKKHHADLIGTKIEESMLDEKRILEMYQKFNLAER"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    341..937
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF06306"
+                     /db_xref="InterPro:IPR010446"
+                     /note="e-value: 3.6862992622400834e-41"
+                     /note="p-value: 1.332718460679712e-44"
+                     /function="Beta-1,4-N-acetylgalactosaminyltransferase"
+                     /standard_name="PF06306"
+     CDS             complement(974..1525)
+                     /locus_tag="HpGP-BGR-006_00219"
+                     /translation="MKTFEVMIQTDSEGYLDAKFGGNAPRGFLNPNGLPTYSPKISWQK
+                     VEGAQSYALELIDHDAQKVCGMPFVHWVVGNISHNVLEENASMMDKRITQGVNSLTQGF
+                     IRSPLNESEKQRSNLNNSVYIGPMPPNGDHHYLIQVYALDIPKLALKAPFFLGDLHDKM
+                     RNHIIAIGRKEFLYKQFVRK"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     CDS             1633..2133
+                     /locus_tag="HpGP-BGR-006_00220"
+                     /translation="MNSYLFLLVTIERMESKINRLSAKIDALLEQQKRVISLLETYLSV
+                     YPAQEASNKFFKSVSQGMELAPEIAQEDEEKRLYVLQYLSHVDITKNKQDSQLKKDCLE
+                     FIQRFNVPKPIIVTALYNLRGIKPTKKEVAKQLQKLYVWEKRYQQGGIDALKDRRGRPL
+                     KKP"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     CDS             2307..3470
+                     /locus_tag="HpGP-BGR-006_00221"
+                     /translation="MLQRIYLDNNATTRIDPKVKEIMDPFLRDHYGNPSSLHQFGTETH
+                     PAIAEALDKLYKGINARDIDDVIITSCATESNNWVLKGVYFDECLKKGKNHIITTVAEH
+                     PAVRSTCNFLESLGVEVTYLPINEHGSITAEQVKEAITEKTALVSVMWANNETGLIFPI
+                     EEIGAICKEKGVLFHTDAVQAIGKIPVDVLKANVDFLSFSAHKFHGPKGIGGLYIRSGV
+                     GLTPLFHGGEHMNGRRSGTLNVPYIVGMGEAMKLAVEHLDYEKEVVGKLRDKLEEALLK
+                     IPDVMVVGDRIHRVPNTTLVSVRGIEGEAMLWDLNRSNIAASTGSACASEDLEANPVMV
+                     AIGASKELAHTAIRLSLSRFNTEAEIDKTIEVFSQAAIRLRNISSSY"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    2586..2870
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF01041"
+                     /db_xref="InterPro:IPR000653"
+                     /note="e-value: 4.6503601986434065e-09"
+                     /note="p-value: 1.6812582063063652e-12"
+                     /function="DegT/DnrJ/EryC1/StrS aminotransferase"
+                     /standard_name="PF01041"
+ORIGIN
+        1 atgggggggg ggcatttaga agatagggtt atccatccca ctttaacttt acccaatccc
+       61 acgcattcag gttattttga ctacgataaa aaaagtcaaa accctaaaag ccctctaaat
+      121 agggttatcc atcccacttt aactttaccc aatcccacgc attcaggtta ttttgactac
+      181 gataaaaaaa gtcaaaaccc taaaagccct ctaaacccat gggcttttat tagagttaaa
+      241 aatgaaatcg ttactttaga agagagtttg ttttctatgc ttcctgccat tcaaaggggg
+      301 ggtcattggt tttaatgatt gcgatgatga ctctaaagaa gtgattttag agttttgcaa
+      361 aaagttcccc tcatttatcc ctatcagcta tccttatgaa gtcatgctaa aggattgccc
+      421 gagtttgtgg caccaacttt atcattactg taattatacg ctttctttta tccctaaaaa
+      481 tgagtgggta gtaaaaattg attgcgatca tatctatgac gctaaaaagc tttatgaaag
+      541 tttttatatc cctaagagca ttaaagagat tgtgatgtat tcgcgcatta attttgtggt
+      601 gcaggatttt gaagtgtttg ttcgtaatga tggggatttt gggtttttag acgcatgggg
+      661 agatcaatgg ttattgtata acgattgcga gccttttgaa atttggcact acagtgatga
+      721 aagttatgaa gtcctaaagc ttaaagataa acaccatatt agagataagg aaatggtgca
+      781 atggcacttc cctttagcta aaaagaggcg aaacgctatc gttgataatg atttaatccc
+      841 tttaaaagaa tttaaaaaac accatgccga tttgataggc acaaaaattg aagaaagcat
+      901 gctagatgaa aagagaattt tagaaatgta tcaaaaattc aatttagcgg aaagatagct
+      961 acaagcacgc agtttatttc ctcacaaact gcttgtataa aaattccttt ctccctatgg
+     1021 cgatgatatg gttgcgcatt ttgtcatgca aatcgcctaa gaaaaaaggg gcttttaagg
+     1081 cgagtttagg aatgtctagg gcatacactt gaattaagta atggtgatcg ccattagggg
+     1141 gcatggggcc gatatagacg ctgttattga gattggagcg ttgtttttcg ctttcattga
+     1201 gcggtgaacg gataaagcct tgagtgagcg aattgacccc ttgagtaatc cttttatcca
+     1261 tcatggaggc gttttcttct aaaacattat gagagatatt gcccacgacc caatggacaa
+     1321 acggcatgcc gcacactttt tgagcgtcat gatcgatgag ttctaacgca tagctttgag
+     1381 cgccttccac tttttgccat gagattttag gcgaataagt gggtaagccg tttgggttga
+     1441 gaaaccctct aggagcgtta ccgccaaatt tagcgtccaa atacccttct gaatcggttt
+     1501 gaatcattac ttcaaaagtt ttcattttaa gccctttttc tttgaaatcg tttttgcgtt
+     1561 tccttattgt agcatgatcc taaaaataca tcttaatttg gagcatggta ttagaataat
+     1621 catttttaat gattgaatag ctatttattt ttactggtta ccattgaacg catggaaagt
+     1681 aaaataaatc gtttgagcgc caaaatagac gcactattgg aacagcaaaa aagagtgatt
+     1741 tctttactag aaacttattt gagcgtttat cccgcccaag aggcttcaaa taagtttttt
+     1801 aaaagcgtta gtcaagggat ggagttagcc ccagaaatcg cgcaagaaga tgaagaaaaa
+     1861 cgcctttatg tgttgcaata tttaagccat gtggatatta ctaaaaacaa gcaagactcc
+     1921 caactcaaaa aagattgttt ggaatttatc caaaggttta atgtcccaaa gcccattatc
+     1981 gttaccgctc tttataatct taggggcatt aagcccacta aaaaagaagt agcgaaacaa
+     2041 ttgcaaaaac tctatgtgtg ggagaagcgt taccaacaag gggggataga cgctttaaaa
+     2101 gacaggcgtg ggagacccct taaaaaacct taagcgactt ggtagcggct gttgttggtt
+     2161 tttgatagga agatgttcgc atttctcaaa atgttttcaa aaattcatct tattttaagt
+     2221 taaaattaag aaaatatctt gtatttaatc ataatttaga cttagataag aaaatctatg
+     2281 taaaattttt gaggagaata ttaactttgt tacaacgaat ttatttagac aataacgcta
+     2341 caactaggat tgaccctaaa gtcaaggaga tcatggatcc ttttttaaga gatcattacg
+     2401 gcaaccctag ctcgttacac cagtttggca cagaaaccca cccagccatt gcagaagcgc
+     2461 tagataagct ttataagggc attaacgcta gggatataga tgatgtgatc atcacttctt
+     2521 gcgcgacaga aagcaataat tgggttttaa agggcgtgta ttttgatgaa tgcttgaaaa
+     2581 aaggcaaaaa ccatattata accacggttg cagagcatcc ggcggtgcga tccacttgta
+     2641 attttttaga aagcttgggg gtggaggtta cttacttgcc cattaatgag catgggagta
+     2701 tcaccgcaga gcaagtcaaa gaagcgatca cagaaaaaac cgctctagtg agcgtgatgt
+     2761 gggcgaataa tgaaaccggt cttattttcc ctattgaaga aattggggct atttgtaaag
+     2821 aaaagggcgt gttgttccat accgatgccg tgcaagcgat tggtaaaatc cctgtagatg
+     2881 tgttaaaagc gaatgtagat ttcctttctt ttagcgcgca caagtttcat gggcctaaag
+     2941 gcattggggg gttgtatatt agaagtgggg tgggattgac ccctcttttt catggcgggg
+     3001 agcatatgaa tggtaggcgc agcgggactt tgaatgtgcc ttatattgtg ggcatgggcg
+     3061 aagcgatgaa attagccgta gagcatttag actatgaaaa agaagtggta gggaaattgc
+     3121 gcgacaaatt agaagaagcg cttttgaaaa tccctgatgt gatggtggtg ggggatcgaa
+     3181 tccatcgtgt gcctaacacg actttagtca gcgtgagagg gattgaagga gaggccatgc
+     3241 tgtgggattt gaatcgctcc aatatcgccg cttccacagg gagcgcgtgc gcgagtgagg
+     3301 atttagaggc taaccccgtg atggtagcga ttggagcgag taaggaatta gctcataccg
+     3361 ctatcaggct ttcattgagc cgttttaaca cggaagctga aattgataaa acgattgaag
+     3421 ttttctctca agcggctata agattgagaa acatttcaag ctcttattaa
+//

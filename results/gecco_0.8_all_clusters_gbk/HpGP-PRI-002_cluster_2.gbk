@@ -1,0 +1,131 @@
+LOCUS       HpGP-PRI-002_cluster_2   844 bp    DNA     linear   BCT 15-AUG-2025
+DEFINITION  Helicobacter pylori strain HpGP-PRI-002.
+ACCESSION   HpGP-PRI-002_cluster_2
+VERSION     HpGP-PRI-002_cluster_2
+KEYWORDS    .
+SOURCE      Helicobacter pylori
+  ORGANISM  Helicobacter pylori
+            Bacteria; Proteobacteria; epsilon subdivision; Helicobacter group;
+            Helicobacter.
+REFERENCE   1
+  AUTHORS   Laura M Carroll, Martin Larralde, Jonas Simon Fleck, Ruby
+            Ponnudurai, Alessio Milanese, Elisa Cappio Barazzone, Georg Zeller
+  TITLE     Accurate de novo identification of biosynthetic gene clusters with
+            GECCO
+  JOURNAL   bioRxiv (2021.05.03.442509)
+  REMARK    doi:10.1101/2021.05.03.442509
+COMMENT     ##GECCO-Data-START##
+            version                :: GECCO v0.9.10
+            creation_date          :: 2025-08-15T18:15:41.930143
+            cluster_type           :: Unknown
+            alkaloid_probability   :: 0.057
+            nrp_probability        :: 0.251
+            polyketide_probability :: 0.270
+            ripp_probability       :: 0.222
+            saccharide_probability :: 0.000
+            terpene_probability    :: 0.111
+            ##GECCO-Data-END##
+            Annotated using prokka 1.14.5 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     CDS             1..213
+                     /gene="HP0154_2"
+                     /locus_tag="HpGP-PRI-002_00178"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07219.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Enolase Eno"
+                     /translation="MLNIINGGTHANNSIDFQEYMIMPLGFESFKEALRASAEVYHTLK
+                     KLLDGKNQLTSVGDEGGLRLILTTM"
+     CDS             309..572
+                     /gene="HP0154_3"
+                     /locus_tag="HpGP-PRI-002_00179"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07219.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Enolase Eno"
+                     /translation="MDEHFNYHLKGENKILDSHELVAYYKELVAKYPIVSIEDGLSEDD
+                     WEGWVFLSKELGRQIQLVGDDLFVTNASILQKGIEKNIANAI"
+     CDS             608..844
+                     /gene="HP0154_4"
+                     /locus_tag="HpGP-PRI-002_00180"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07219.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Enolase Eno"
+                     /translation="METIRLAKHHAYQCVMSHRSGESEDSFIADFAVALNTGEIKTGST
+                     ARSERIAKYNRLLEIEHELKGGIYIGKELFKHG"
+     CDS             1..213
+                     /locus_tag="HpGP-PRI-002_00178"
+                     /translation="MLNIINGGTHANNSIDFQEYMIMPLGFESFKEALRASAEVYHTLK
+                     KLLDGKNQLTSVGDEGGLRLILTTM"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    1..189
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00113"
+                     /db_xref="InterPro:IPR020810"
+                     /note="e-value: 3.661060470208525e-24"
+                     /note="p-value: 1.3235938070168201e-27"
+                     /function="Enolase, C-terminal TIM barrel domain"
+                     /standard_name="PF00113"
+     CDS             309..572
+                     /locus_tag="HpGP-PRI-002_00179"
+                     /translation="MDEHFNYHLKGENKILDSHELVAYYKELVAKYPIVSIEDGLSEDD
+                     WEGWVFLSKELGRQIQLVGDDLFVTNASILQKGIEKNIANAI"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    321..569
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00113"
+                     /db_xref="InterPro:IPR020810"
+                     /note="e-value: 5.0993095679500185e-30"
+                     /note="p-value: 1.8435681735177218e-33"
+                     /function="Enolase, C-terminal TIM barrel domain"
+                     /standard_name="PF00113"
+     CDS             608..844
+                     /locus_tag="HpGP-PRI-002_00180"
+                     /translation="METIRLAKHHAYQCVMSHRSGESEDSFIADFAVALNTGEIKTGST
+                     ARSERIAKYNRLLEIEHELKGGIYIGKELFKHG"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    611..835
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00113"
+                     /db_xref="InterPro:IPR020810"
+                     /note="e-value: 8.043701952451964e-27"
+                     /note="p-value: 2.9080628895343327e-30"
+                     /function="Enolase, C-terminal TIM barrel domain"
+                     /standard_name="PF00113"
+ORIGIN
+        1 atgctcaata tcatcaacgg cggaacgcat gcgaataatt ccatagactt ccaagaatac
+       61 atgatcatgc ctttagggtt tgagagtttt aaagaagcct taagagcgag tgcggaggtc
+      121 tatcacacgc ttaaaaaact tttagatgga aagaatcagc tcacaagcgt gggcgatgag
+      181 gggggtttgc gcctaatttt aacaacaatg tagaacccct tgaagccatt tctcaagcca
+      241 ttgaaaaaac cggctataaa ttaggcgaag aaatcgcgct cgctttagat gtagcgagca
+      301 gtgagttagt ggatgaacat ttcaattacc atttaaaggg tgaaaataag attctagatt
+      361 cgcatgaatt agtggcttat tacaaagaat tggtggcaaa atacccgatc gtgtccattg
+      421 aagatggttt gagcgaagac gattgggagg ggtgggtgtt tttgagcaag gaattagggc
+      481 gtcaaatcca attagtgggc gatgatttgt ttgtaacgaa tgcgagtatt ttacaaaaag
+      541 gcattgaaaa aaacattgcg aacgccattt aatcaaaccc aatcaaatcg gcaccattag
+      601 tgagactttg gaaaccataa gattagccaa acaccatgcc tatcaatgcg tgatgagcca
+      661 tagaagcggg gagagtgagg acagctttat cgctgatttt gctgtcgcat tgaatacggg
+      721 agaaatcaaa accggatcca ccgcaaggag tgaaaggatc gctaaataca accgcctttt
+      781 agagattgag catgaattaa aaggggggat ttatatcggt aaagagttgt ttaagcatgg
+      841 ctag
+//

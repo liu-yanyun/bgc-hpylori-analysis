@@ -1,0 +1,162 @@
+LOCUS       HpGP-SGP-002_cluster_2  2364 bp    DNA     linear   BCT 15-AUG-2025
+DEFINITION  Helicobacter pylori strain HpGP-SGP-002.
+ACCESSION   HpGP-SGP-002_cluster_2
+VERSION     HpGP-SGP-002_cluster_2
+KEYWORDS    .
+SOURCE      Helicobacter pylori
+  ORGANISM  Helicobacter pylori
+            Bacteria; Proteobacteria; epsilon subdivision; Helicobacter group;
+            Helicobacter.
+REFERENCE   1
+  AUTHORS   Laura M Carroll, Martin Larralde, Jonas Simon Fleck, Ruby
+            Ponnudurai, Alessio Milanese, Elisa Cappio Barazzone, Georg Zeller
+  TITLE     Accurate de novo identification of biosynthetic gene clusters with
+            GECCO
+  JOURNAL   bioRxiv (2021.05.03.442509)
+  REMARK    doi:10.1101/2021.05.03.442509
+COMMENT     ##GECCO-Data-START##
+            version                :: GECCO v0.9.10
+            creation_date          :: 2025-08-15T18:18:46.704590
+            cluster_type           :: Unknown
+            alkaloid_probability   :: 0.056
+            nrp_probability        :: 0.248
+            polyketide_probability :: 0.267
+            ripp_probability       :: 0.221
+            saccharide_probability :: 0.010
+            terpene_probability    :: 0.111
+            ##GECCO-Data-END##
+            Annotated using prokka 1.14.5 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     CDS             complement(1..1314)
+                     /locus_tag="HpGP-SGP-002_00670"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MIQVYIISLKESQRRLDTEKLVLESNEKFKGRCVFQIFDAISPKH
+                     EDFEKFVQELYDAQNMLKSDWFHSDYCYQELLPREFGCYLSHYLLWKECVKTNQPIVIL
+                     EDDATLESNFMQALEDCLKSPFDFVRLYGHYWGGHKTNLHALPIYTEAEETDYTEIEEA
+                     EVPIENHEVTPPPPNSTQDVQQDLINETQQNPKEPSKPCKIAPQKISFNQVVFKKIKRK
+                     LNHFIGNILARTEVYKKLVAKYDELTGKYDELTGKYDDLTGKYDDLTGKYDDLTGKYDD
+                     LTGKYESLLAKEANIKETFWERRADSEKEAFFLEHFYLTSVYVASTAGYYLTPKGAKTF
+                     IEVTERFKIIEPVDMFMDNSAYHDIANFTYVPCPVSLNKHAFNSTIQNTKKPDISLKPP
+                     KKSYFDNLFYHKFNTKKCLRAFHKYSKQYDHLKTPKEV"
+     CDS             complement(1367..1723)
+                     /locus_tag="HpGP-SGP-002_00671"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MYVASTAGYYLTPKGAKTFIEVTERFKIIEPVDMFMDNSAYHDIA
+                     NFTYVPCPVSLSEHSLDSTIQKPQKKSLKSYPSPPKKSTFKNLFYYSLNAKKRLKAFHK
+                     YSKQYDHLKTPKEV"
+     CDS             complement(1744..2364)
+                     /locus_tag="HpGP-SGP-002_00672"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MISVYIISLKESQRRLDTEKLVLESNEKFKGRCVFQIFDAISPKH
+                     QDFEKLVQELYDVQNMLKSDWFHSYVGDGLTLPELGCYLSHYLLWKECVKTDQPVVILE
+                     DDATLESNFMQALEDCLKSPFDFVRLYGCYWYYHETKFHVLPKEFVFPPFDYPFKNNPI
+                     LEKFKKFFDVSRFLNLSTHKVIHYILKRIQKSYYSTHEKEAFF"
+     CDS             complement(1..1314)
+                     /locus_tag="HpGP-SGP-002_00670"
+                     /translation="MIQVYIISLKESQRRLDTEKLVLESNEKFKGRCVFQIFDAISPKH
+                     EDFEKFVQELYDAQNMLKSDWFHSDYCYQELLPREFGCYLSHYLLWKECVKTNQPIVIL
+                     EDDATLESNFMQALEDCLKSPFDFVRLYGHYWGGHKTNLHALPIYTEAEETDYTEIEEA
+                     EVPIENHEVTPPPPNSTQDVQQDLINETQQNPKEPSKPCKIAPQKISFNQVVFKKIKRK
+                     LNHFIGNILARTEVYKKLVAKYDELTGKYDELTGKYDDLTGKYDDLTGKYDDLTGKYDD
+                     LTGKYESLLAKEANIKETFWERRADSEKEAFFLEHFYLTSVYVASTAGYYLTPKGAKTF
+                     IEVTERFKIIEPVDMFMDNSAYHDIANFTYVPCPVSLNKHAFNSTIQNTKKPDISLKPP
+                     KKSYFDNLFYHKFNTKKCLRAFHKYSKQYDHLKTPKEV"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    244..1314
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF01755"
+                     /db_xref="InterPro:IPR002654"
+                     /note="e-value: 6.867198204530779e-55"
+                     /note="p-value: 2.4827180782830003e-58"
+                     /function="Glycosyl transferase, family 25"
+                     /standard_name="PF01755"
+     CDS             complement(1367..1723)
+                     /locus_tag="HpGP-SGP-002_00671"
+                     /translation="MYVASTAGYYLTPKGAKTFIEVTERFKIIEPVDMFMDNSAYHDIA
+                     NFTYVPCPVSLSEHSLDSTIQKPQKKSLKSYPSPPKKSTFKNLFYYSLNAKKRLKAFHK
+                     YSKQYDHLKTPKEV"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    1616..1720
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF01755"
+                     /db_xref="InterPro:IPR002654"
+                     /note="e-value: 1.2457518972057264e-08"
+                     /note="p-value: 4.503802954467558e-12"
+                     /function="Glycosyl transferase, family 25"
+                     /standard_name="PF01755"
+     CDS             complement(1744..2364)
+                     /locus_tag="HpGP-SGP-002_00672"
+                     /translation="MISVYIISLKESQRRLDTEKLVLESNEKFKGRCVFQIFDAISPKH
+                     QDFEKLVQELYDVQNMLKSDWFHSYVGDGLTLPELGCYLSHYLLWKECVKTDQPVVILE
+                     DDATLESNFMQALEDCLKSPFDFVRLYGCYWYYHETKFHVLPKEFVFPPFDYPFKNNPI
+                     LEKFKKFFDVSRFLNLSTHKVIHYILKRIQKSYYSTHEKEAFF"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    1855..2364
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF01755"
+                     /db_xref="InterPro:IPR002654"
+                     /note="e-value: 2.767080232300568e-57"
+                     /note="p-value: 1.0003905395157512e-60"
+                     /function="Glycosyl transferase, family 25"
+                     /standard_name="PF01755"
+ORIGIN
+        1 ttaaacctct ttaggggttt ttaaatgatc gtattgtttg ctgtatttgt gaaacgccct
+       61 caagcacttt ttggtgttaa atttatgata aaaaagatta tcaaaataag attttttagg
+      121 gggctttaat gaaatatcag gctttttcgt attttgaatg gtgctattga aagcatgctt
+      181 gtttaaagaa acagggcaag gcacataggt aaaattagca atatcatgat aagcggaatt
+      241 atccataaac atatccaccg gctctatgat tttaaaacgc tccgtgacct ctataaaagt
+      301 tttagctccc ttaggcgtga gatagtaacc ggccgtagaa gccacataca cgctggtgag
+      361 gtaaaaatgc tctaaaaaaa aggcttcttt ttcactatca gcacgccttt cccaaaaggt
+      421 ctctttgatg tttgcctctt ttgccaataa ggattcgtat tttcctgtga gatcatcgta
+      481 ttttcctgtg agatcatcgt attttcctgt gagatcatcg tattttcctg tgagatcatc
+      541 gtattttcct gtgagttcat cgtattttcc tgtgagttca tcgtattttg ccacgagttt
+      601 cttatacact tctgtccgag ctaaaatatt tccaatgaag tggttgagtt ttcttttaat
+      661 ttttttaaaa accacttgat taaaagagat tttttggggt gctattttgc aaggcttaga
+      721 tggttctttg gggttttgtt gcgtttcatt aatcaaatct tgttgcacat cttgtgtgga
+      781 attggggggg gggggggtaa cttcatggtt ttcaataggc acttcagcct cttcaatctc
+      841 tgtataatca gtctcttcag cttctgtata gatagggaga gcgtgcaaat tggttttatg
+      901 gcctccccaa taatgtccat agagtctcac aaaatcaaaa ggactcttca agcaatcttc
+      961 taaggcttgc ataaagttag attctagtgt tgcatcatct tctaaaatga cgatcggttg
+     1021 gtttgtttta acgcattctt tccataaaag ataatgactt aaatagcacc caaattctcg
+     1081 gggcaataac tcttgataac aataatcaga atggaaccaa tcggatttta acatattttg
+     1141 tgcatcataa agctcttgaa cgaatttttc aaaatcttcg tgtttggggc taatagcgtc
+     1201 aaagatttga aaaacacaac gccctttaaa tttttcattg gactctaaaa cgagtttttc
+     1261 cgtatccaaa cgcctttgac tttcttttaa agaaatgata taaacttgta tcaaatgaac
+     1321 tcctaaatat ggtattccat tctaccataa agttttttca ttctttttaa acctctttag
+     1381 gggtttttaa atgatcgtat tgtttgctgt atttgtgaaa ggcttttaaa cgctttttag
+     1441 cgttaaggct atagtagaaa agattcttaa aagttgattt tttaggcgga gatgggtaag
+     1501 atttcaagct ctttttttgg ggcttttgaa tcgtgctgtc taaagaatgt tcacttaaag
+     1561 aaacagggca aggcacatag gtaaaattag caatatcatg ataagcggaa ttatccataa
+     1621 acatatccac cggctctatg attttaaaac gctccgtgac ctctataaaa gttttagctc
+     1681 ccttaggcgt gagatagtaa ccggccgtag aagccacata cacgctggtg aggtaaaaat
+     1741 gctctaaaaa aaggcttctt tttcatgcgt tgagtaatag cttttttgta ttcttttgag
+     1801 aatatagtgg atgactttat gggtagaaag atttaaaaat ctagaaacat caaaaaattt
+     1861 tttaaatttt tctaaaatag ggttattttt aaaaggataa tcaaagggag gaaatacaaa
+     1921 ttctttgggt aaaacatgga attttgtctc gtggtaatac caatagcacc cataaagtct
+     1981 cacaaaatca aaagggcttt tcaaacaatc ttctaaggct tgcataaagt tagattctag
+     2041 tgttgcatca tcttctaaaa tgacaaccgg ttggtctgtt ttgacgcatt ctttccataa
+     2101 aagataatgg cttaaatagc accctaattc aggcaaagtc aaaccatcgc caacataaga
+     2161 atggaaccaa tcggatttta acatattttg cacatcataa agctcttgaa cgagtttttc
+     2221 aaaatcctga tgtttggggc taatagcgtc aaagatttga aaaacacaac gccctttaaa
+     2281 tttttcattg gactctaaaa cgagtttttc cgtatccaaa cgcctttgac tttcttttaa
+     2341 cgagatgata taaacagaaa tcac
+//
