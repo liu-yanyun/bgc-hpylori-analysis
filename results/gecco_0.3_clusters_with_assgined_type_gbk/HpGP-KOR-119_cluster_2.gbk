@@ -1,0 +1,221 @@
+LOCUS       HpGP-KOR-119_cluster_2  2555 bp    DNA     linear   BCT 15-AUG-2025
+DEFINITION  Helicobacter pylori strain HpGP-KOR-119.
+ACCESSION   HpGP-KOR-119_cluster_2
+VERSION     HpGP-KOR-119_cluster_2
+KEYWORDS    .
+SOURCE      Helicobacter pylori
+  ORGANISM  Helicobacter pylori
+            Bacteria; Proteobacteria; epsilon subdivision; Helicobacter group;
+            Helicobacter.
+REFERENCE   1
+  AUTHORS   Laura M Carroll, Martin Larralde, Jonas Simon Fleck, Ruby
+            Ponnudurai, Alessio Milanese, Elisa Cappio Barazzone, Georg Zeller
+  TITLE     Accurate de novo identification of biosynthetic gene clusters with
+            GECCO
+  JOURNAL   bioRxiv (2021.05.03.442509)
+  REMARK    doi:10.1101/2021.05.03.442509
+COMMENT     ##GECCO-Data-START##
+            version                :: GECCO v0.9.10
+            creation_date          :: 2025-08-15T15:00:15.504054
+            cluster_type           :: Polyketide
+            alkaloid_probability   :: 0.010
+            nrp_probability        :: 0.100
+            polyketide_probability :: 0.780
+            ripp_probability       :: 0.000
+            saccharide_probability :: 0.010
+            terpene_probability    :: 0.010
+            ##GECCO-Data-END##
+            Annotated using prokka 1.14.5 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     CDS             complement(1..735)
+                     /gene="HP0558_1"
+                     /locus_tag="HpGP-KOR-119_00568"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07625.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="3-oxoacyl-(acyl carrier protein) synthase II"
+                     /translation="MGVSSGSGIGGLGNIEANSIFCFEKGPRKVNPFFITSALVNMIGG
+                     FTSIEFGIKGPNLSSVTACAAGTHAIIEAVKTILLNGADKMLVVGAESTICPVGIGGFA
+                     SIKALSTRNDDPKRASRPFDKDRNGFVMGEGAGALVLEEYESAKKRGQKFMQNLPDMVR
+                     AAMLTISQPQLLRVKGLLGYENGFRNGESEVGYVNAHGTSTHYNDWYESIALKNVFGSK
+                     EKVPPGSSTKGRLGIVWALRAR"
+     CDS             complement(818..1042)
+                     /gene="HP0558_2"
+                     /locus_tag="HpGP-KOR-119_00569"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07625.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="3-oxoacyl-(acyl carrier protein) synthase II"
+                     /translation="MRRIVVTGMGMINSLGLNKEDSFLAIAKGECGIKNIESFDASAFP
+                     VRIAGEITDFDPTEVMNPKDVKKQVVSFN"
+     CDS             complement(1345..1581)
+                     /gene="HP0559"
+                     /locus_tag="HpGP-KOR-119_00570"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07626.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Acyl carrier protein AcpP"
+                     /translation="MALFEDIQAVIAEQLNVDAAQVTPEAEFVKDLGADSLDVVELIMA
+                     LEEKFGIEIPDEQAEKIVNVGDVVKYIEDNKLA"
+     CDS             complement(1812..2555)
+                     /gene="HP0561"
+                     /locus_tag="HpGP-KOR-119_00571"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07627.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="3-ketoacyl-ACP reductase"
+                     /translation="MQFTGKNVLITGASKGIGAEIAKTLASMGLKVWINYRSNAEVADA
+                     LKNELEEKGYKAAVIKFDATSESGFIEAIQTIVQSDGGLSYLVNNAGVVRDKLAIKMKT
+                     EDFHHVIDNNLTSAFIGCREALKVMSKSRFGSVVNIASIIGERGNMGQTNYSASKGGMI
+                     AMSKSFAYEGALRNIRFNSVTPGFIETDMNANLKDELKADYVKNIPLNRLGSAKEVAEA
+                     VAFLLSDHSSYITGETLKVNGGLYM"
+     CDS             complement(1..735)
+                     /locus_tag="HpGP-KOR-119_00568"
+                     /translation="MGVSSGSGIGGLGNIEANSIFCFEKGPRKVNPFFITSALVNMIGG
+                     FTSIEFGIKGPNLSSVTACAAGTHAIIEAVKTILLNGADKMLVVGAESTICPVGIGGFA
+                     SIKALSTRNDDPKRASRPFDKDRNGFVMGEGAGALVLEEYESAKKRGQKFMQNLPDMVR
+                     AAMLTISQPQLLRVKGLLGYENGFRNGESEVGYVNAHGTSTHYNDWYESIALKNVFGSK
+                     EKVPPGSSTKGRLGIVWALRAR"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    295..735
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00109"
+                     /db_xref="InterPro:IPR014030"
+                     /note="e-value: 1.6788665644581893e-34"
+                     /note="p-value: 6.069654969118544e-38"
+                     /function="Beta-ketoacyl synthase, N-terminal"
+                     /standard_name="PF00109"
+     misc_feature    28..165
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF02801"
+                     /db_xref="InterPro:IPR014031"
+                     /note="e-value: 3.2751393340417075e-09"
+                     /note="p-value: 1.1840706196824684e-12"
+                     /function="Beta-ketoacyl synthase, C-terminal"
+                     /standard_name="PF02801"
+     CDS             complement(818..1042)
+                     /locus_tag="HpGP-KOR-119_00569"
+                     /translation="MRRIVVTGMGMINSLGLNKEDSFLAIAKGECGIKNIESFDASAFP
+                     VRIAGEITDFDPTEVMNPKDVKKQVVSFN"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    866..1042
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00109"
+                     /db_xref="InterPro:IPR014030"
+                     /note="e-value: 7.048884258247881e-07"
+                     /note="p-value: 2.5484035640809405e-10"
+                     /function="Beta-ketoacyl synthase, N-terminal"
+                     /standard_name="PF00109"
+     CDS             complement(1345..1581)
+                     /locus_tag="HpGP-KOR-119_00570"
+                     /translation="MALFEDIQAVIAEQLNVDAAQVTPEAEFVKDLGADSLDVVELIMA
+                     LEEKFGIEIPDEQAEKIVNVGDVVKYIEDNKLA"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    1366..1566
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00550"
+                     /db_xref="InterPro:IPR009081"
+                     /note="e-value: 3.691901569015041e-18"
+                     /note="p-value: 1.3347438788919166e-21"
+                     /function="Phosphopantetheine binding ACP domain"
+                     /standard_name="PF00550"
+     CDS             complement(1812..2555)
+                     /locus_tag="HpGP-KOR-119_00571"
+                     /translation="MQFTGKNVLITGASKGIGAEIAKTLASMGLKVWINYRSNAEVADA
+                     LKNELEEKGYKAAVIKFDATSESGFIEAIQTIVQSDGGLSYLVNNAGVVRDKLAIKMKT
+                     EDFHHVIDNNLTSAFIGCREALKVMSKSRFGSVVNIASIIGERGNMGQTNYSASKGGMI
+                     AMSKSFAYEGALRNIRFNSVTPGFIETDMNANLKDELKADYVKNIPLNRLGSAKEVAEA
+                     VAFLLSDHSSYITGETLKVNGGLYM"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    1959..2540
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00106"
+                     /db_xref="InterPro:IPR002347"
+                     /note="e-value: 1.0654924524825635e-52"
+                     /note="p-value: 3.852105757348386e-56"
+                     /function="Short-chain dehydrogenase/reductase SDR"
+                     /standard_name="PF00106"
+     misc_feature    2076..2534
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF08659"
+                     /db_xref="InterPro:IPR013968"
+                     /note="e-value: 5.64271348994022e-17"
+                     /note="p-value: 2.0400265690311715e-20"
+                     /function="Polyketide synthase, ketoreductase domain"
+                     /standard_name="PF08659"
+     misc_feature    1821..2522
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF13561"
+                     /note="e-value: 5.610049531541278e-63"
+                     /note="p-value: 2.0282174734422555e-66"
+                     /standard_name="PF13561"
+ORIGIN
+        1 ctaacgcgcc cgcagcgccc aaacaatgcc caatctgccc ttagtggaac taccaggagg
+       61 gactttttct ttagagccaa acacattttt tagagcgatg ctttcatacc aatcgttata
+      121 atgcgtgctg gtcccatgag cgttcacata gcctacttca ctttcgccat ttctaaagcc
+      181 attttcatag cctaaaagcc ccttcaccct caggagctgg ggctgtgata tggttagcat
+      241 cgccgctctc accatatccg gcaaattctg cataaatttt tgccctcttt ttttcgcgct
+      301 ctcgtattct tcaagcacca aagccccagc gccttcgccc atcacaaagc cattgcgatc
+      361 cttatcaaaa ggtcttgaag ctcttttagg atcatcattc cttgtagaaa gggctttaat
+      421 gctcgcaaac cccccaatcc ctacaggaca aatggtggat tccgctccca cgactagcat
+      481 tttatcagcc ccattaagca aaatggtttt aacagcttca ataatggcat gagtgcctgc
+      541 tgcacaagcc gttacgctag agaggttagg tcctttaatg ccaaactcaa tggaagtgaa
+      601 acctccaatc atattcacta acgcagaagt gataaaaaag ggattgactt ttctagggcc
+      661 tttttcaaaa caaaaaatgg aattcgcttc aatattgcct aacccaccaa tcccagagcc
+      721 agagcttacg cccatgcgat ttgccattct tcagggcatt tattgtgagc gtctaaaatc
+      781 ccactatctt tcatcgcctc ttttgtggct tttaaggcta attgaatgaa acgacctgct
+      841 ttttaacatc tttgggattc atcacctctg tagggtcaaa gtcagtgatt tctccagcga
+      901 tacgcacagg aaacgcgctc gcatcaaaac tttctatgtt tttgataccg cattcccctt
+      961 tagcgatcgc taaaaaagaa tcttctttat ttaaacctag cgaattgatc attcccattc
+     1021 cagttactac aatccgacgc accaatagct cctcatttca aaactttaat tcagtgaaac
+     1081 cgcccctttc taaagcaagg ggcttcctaa ctaaagcatt ccattgaatg ctaacacgaa
+     1141 aggctttgtt ctttatagtc tgcatggata tttcctaccc caaaaagact attttaacct
+     1201 cttttagctt gaatatagcc taacggctac gcactcacat cttgcaccct aaaggacaaa
+     1261 gttttttcgt gccgttggga taaaacttag ctaaagccaa atttttaggt aaaacctgga
+     1321 gacaaacgct ccaagttaaa aagattaagc tagtttatta tcctcaatat acttcaccac
+     1381 atcgcccaca ttgacgattt tttccgcttg ctcatcagga atttcaatgc caaacttttc
+     1441 ttctaacgcc atgattaatt ccacgacatc taaagagtcc gcacccaaat ccttcacaaa
+     1501 ttccgcctct ggcgtaactt gcgccgcatc cacattcaac tgctcagcaa taactgcctg
+     1561 aatatcttca aataaagcca taattaaaac tccctttttt ttgtaaaaat taaatcaacc
+     1621 atcattggag cgtttatttt tgctccaaaa catctaaaat cctatacaac aaataaatta
+     1681 caatgagaaa caatattaag taaataatcc ccatttgata ataacctctt tgttttagaa
+     1741 taacctcata atgttagcat gatttttgct acttacaaac ttttatcgct aaaagaaccc
+     1801 ttcgtttagg actacatata aagcccgcca ttgactttga gagtctctcc agtgatgtaa
+     1861 ctagagtgat cactcaaaag aaacgctacc gcttctgcca cttccttggc agaccctagc
+     1921 ctatttaaag gaatgttttt aacataatcc gctttgagtt cgtctttcaa attggcgttc
+     1981 atgtcggttt ctataaaacc gggcgttaca gagttgaaac gaatattcct taaagctccc
+     2041 tcataagcaa aggacttgct catcgcaatc atccccccct tactcgctga gtagtttgtc
+     2101 tgccccatat tgcctctttc accaatgata gacgcgatat tgactacgct cccaaaacgg
+     2161 cttttactca tcacttttaa agcctctcgg caacctataa acgctgaagt gaggttattg
+     2221 tctatgacat ggtgaaaatc ttctgttttc attttgatcg ctaatttatc gcgcaccaca
+     2281 ccggcgttat ttaccaagta agacaaaccc ccatcgcttt ggacaatggt ttgtatcgct
+     2341 tcaataaaac cgctttcaga agtagcatca aatttaatga cagctgcctt atagcctttt
+     2401 tcttcaagct catttttcaa agcgtcagcc acttcagcat tactgcggta attgatccaa
+     2461 actttcagcc ccatagaagc gagagtttta gcgatttcag ccccaatgcc tttagaagcc
+     2521 ccagtaatga gaacattttt ccctgtgaat tgcat
+//

@@ -1,0 +1,287 @@
+LOCUS       HpGP-KOR-118_cluster_2  3908 bp    DNA     linear   BCT 15-AUG-2025
+DEFINITION  Helicobacter pylori strain HpGP-KOR-118.
+ACCESSION   HpGP-KOR-118_cluster_2
+VERSION     HpGP-KOR-118_cluster_2
+KEYWORDS    .
+SOURCE      Helicobacter pylori
+  ORGANISM  Helicobacter pylori
+            Bacteria; Proteobacteria; epsilon subdivision; Helicobacter group;
+            Helicobacter.
+REFERENCE   1
+  AUTHORS   Laura M Carroll, Martin Larralde, Jonas Simon Fleck, Ruby
+            Ponnudurai, Alessio Milanese, Elisa Cappio Barazzone, Georg Zeller
+  TITLE     Accurate de novo identification of biosynthetic gene clusters with
+            GECCO
+  JOURNAL   bioRxiv (2021.05.03.442509)
+  REMARK    doi:10.1101/2021.05.03.442509
+COMMENT     ##GECCO-Data-START##
+            version                :: GECCO v0.9.10
+            creation_date          :: 2025-08-15T15:00:07.710899
+            cluster_type           :: Polyketide
+            alkaloid_probability   :: 0.010
+            nrp_probability        :: 0.130
+            polyketide_probability :: 0.820
+            ripp_probability       :: 0.010
+            saccharide_probability :: 0.030
+            terpene_probability    :: 0.010
+            ##GECCO-Data-END##
+            Annotated using prokka 1.14.5 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     CDS             complement(1..939)
+                     /gene="HP0557"
+                     /locus_tag="HpGP-KOR-118_00600"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07624.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Acetyl-CoA carboxylase carboxyltransferase
+                     subunit alpha"
+                     /translation="MAIYLDFENHIKEIQNEIELALIRGDEDAKEILEKRLDKEVKSIY
+                     SNLTDFQKLQLARHPDRPYAMDYIDLILKDKYEVFGDRHYNDDKAIVCFIGKIDNVPVV
+                     VIGEEKGRGTKNKLLRNFGMPNPCGYRKALKMAKFAEKFNLPILMLVDTAGAYPGIGAE
+                     ERGQSEAIAKNLQEFASLKVPTISVIIGEGGSGGALAIAVADKLAMMEYSIFSVISPEG
+                     CAAILWDDPSKTEVAIKAMKITPRDLKEAGLIDDIILEPSKGAHRDKFSAANTIKEYFL
+                     DALRTIQQDPHFLDNRYQKLMSLGSFVESMN"
+     CDS             complement(962..2200)
+                     /gene="HP0558"
+                     /locus_tag="HpGP-KOR-118_00601"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07625.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="3-oxoacyl-(acyl carrier protein) synthase II"
+                     /translation="MRRIVVTGMGMINSLGLNKEDSFLAIAKGECGIKNIESFDASAFP
+                     VRIAGEIIDFDPTEVMNPKDVKKAGRFIQLALKATKEAMKDSGILDAHNKCPEELANRM
+                     GVSSGSGIGGLGNIEANSIFCFEKGPRKVNPFFITSALVNMIGGFTSIEFGIKGPNLSS
+                     VTACAAGTHAIIEAVKTILLNGADKMLVVGAESTICPVGIGGFASIKALSTRNDDPKKA
+                     SRPFDKDRNGFVMGEGAGALVLEEYESAKKRGAKIYAEFAGYGESGDANHITAPAPEGE
+                     GAFRAMKMALEMAKVEVGYVNAHGTSTHYNDWYESIALKNVFGSKEKVPPVSSTKGQIG
+                     HCLGAAGALEAVISIMAMNQGILPPTINQETPDPECDLDYIPNAAREKQVDAVMSNSFG
+                     FGGTNGVVIFKKA"
+     CDS             complement(2502..2654)
+                     /gene="HP0559_1"
+                     /locus_tag="HpGP-KOR-118_00602"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07626.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Acyl carrier protein AcpP"
+                     /translation="MKDLGADSLDVVELIMALEEKFGIEIPDEQAEKIVNVGDVVKYIE
+                     DNKLA"
+     CDS             complement(2698..2934)
+                     /gene="HP0559_2"
+                     /locus_tag="HpGP-KOR-118_00603"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07626.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Acyl carrier protein AcpP"
+                     /translation="MALFEDIQAVIAEQLNVDAAQVTPEAEFVKDLGADSLDVVELIMA
+                     LEEKFGIEIPDEQAEKIVNVGDVVKYIEDNKLA"
+     CDS             complement(3165..3908)
+                     /gene="HP0561"
+                     /locus_tag="HpGP-KOR-118_00604"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA
+                     sequence:Hp26695_for_annot_w_phage_T4SS_Hardy_250602.faa:A
+                     AD07627.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="3-ketoacyl-ACP reductase"
+                     /translation="MRFTGKNVLITGASKGIGAEIARTLASMGLKVWINYRSNAEVADA
+                     LKNELEEKGYKAAVIKFDAASESGFIEAIQTIVQSDGGLSYLVNNAGVVRDKLAIKMKT
+                     EDFHHVIDNNLTSAFIGCREALKIMSKSRFGSVVNIASIIGERGNMGQTNYSASKGGMI
+                     AMSKSFAYEGALRNIRFNSVTPGFIETDMNANLKDELKADYVKNIPLNRLGSAKEVAEA
+                     VAFLLSDHSSYITGETLKVNGGLYM"
+     CDS             complement(1..939)
+                     /locus_tag="HpGP-KOR-118_00600"
+                     /translation="MAIYLDFENHIKEIQNEIELALIRGDEDAKEILEKRLDKEVKSIY
+                     SNLTDFQKLQLARHPDRPYAMDYIDLILKDKYEVFGDRHYNDDKAIVCFIGKIDNVPVV
+                     VIGEEKGRGTKNKLLRNFGMPNPCGYRKALKMAKFAEKFNLPILMLVDTAGAYPGIGAE
+                     ERGQSEAIAKNLQEFASLKVPTISVIIGEGGSGGALAIAVADKLAMMEYSIFSVISPEG
+                     CAAILWDDPSKTEVAIKAMKITPRDLKEAGLIDDIILEPSKGAHRDKFSAANTIKEYFL
+                     DALRTIQQDPHFLDNRYQKLMSLGSFVESMN"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    226..684
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF01039"
+                     /db_xref="InterPro:IPR034733"
+                     /note="e-value: 9.543329980483305e-17"
+                     /note="p-value: 3.450227758670754e-20"
+                     /function="Acetyl-CoA carboxylase"
+                     /standard_name="PF01039"
+     CDS             complement(962..2200)
+                     /locus_tag="HpGP-KOR-118_00601"
+                     /translation="MRRIVVTGMGMINSLGLNKEDSFLAIAKGECGIKNIESFDASAFP
+                     VRIAGEIIDFDPTEVMNPKDVKKAGRFIQLALKATKEAMKDSGILDAHNKCPEELANRM
+                     GVSSGSGIGGLGNIEANSIFCFEKGPRKVNPFFITSALVNMIGGFTSIEFGIKGPNLSS
+                     VTACAAGTHAIIEAVKTILLNGADKMLVVGAESTICPVGIGGFASIKALSTRNDDPKKA
+                     SRPFDKDRNGFVMGEGAGALVLEEYESAKKRGAKIYAEFAGYGESGDANHITAPAPEGE
+                     GAFRAMKMALEMAKVEVGYVNAHGTSTHYNDWYESIALKNVFGSKEKVPPVSSTKGQIG
+                     HCLGAAGALEAVISIMAMNQGILPPTINQETPDPECDLDYIPNAAREKQVDAVMSNSFG
+                     FGGTNGVVIFKKA"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    1451..2200
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00109"
+                     /db_xref="InterPro:IPR014030"
+                     /note="e-value: 1.314247152692354e-52"
+                     /note="p-value: 4.751435837644085e-56"
+                     /function="Beta-ketoacyl synthase, N-terminal"
+                     /standard_name="PF00109"
+     misc_feature    1094..1429
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF02801"
+                     /db_xref="InterPro:IPR014031"
+                     /note="e-value: 2.528013119069371e-34"
+                     /note="p-value: 9.139599128956512e-38"
+                     /function="Beta-ketoacyl synthase, C-terminal"
+                     /standard_name="PF02801"
+     CDS             complement(2502..2654)
+                     /locus_tag="HpGP-KOR-118_00602"
+                     /translation="MKDLGADSLDVVELIMALEEKFGIEIPDEQAEKIVNVGDVVKYIE
+                     DNKLA"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    2523..2648
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00550"
+                     /db_xref="InterPro:IPR009081"
+                     /note="e-value: 2.278296850950335e-12"
+                     /note="p-value: 8.236792664317915e-16"
+                     /function="Phosphopantetheine binding ACP domain"
+                     /standard_name="PF00550"
+     CDS             complement(2698..2934)
+                     /locus_tag="HpGP-KOR-118_00603"
+                     /translation="MALFEDIQAVIAEQLNVDAAQVTPEAEFVKDLGADSLDVVELIMA
+                     LEEKFGIEIPDEQAEKIVNVGDVVKYIEDNKLA"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    2719..2919
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00550"
+                     /db_xref="InterPro:IPR009081"
+                     /note="e-value: 3.691901569015041e-18"
+                     /note="p-value: 1.3347438788919166e-21"
+                     /function="Phosphopantetheine binding ACP domain"
+                     /standard_name="PF00550"
+     CDS             complement(3165..3908)
+                     /locus_tag="HpGP-KOR-118_00604"
+                     /translation="MRFTGKNVLITGASKGIGAEIARTLASMGLKVWINYRSNAEVADA
+                     LKNELEEKGYKAAVIKFDAASESGFIEAIQTIVQSDGGLSYLVNNAGVVRDKLAIKMKT
+                     EDFHHVIDNNLTSAFIGCREALKIMSKSRFGSVVNIASIIGERGNMGQTNYSASKGGMI
+                     AMSKSFAYEGALRNIRFNSVTPGFIETDMNANLKDELKADYVKNIPLNRLGSAKEVAEA
+                     VAFLLSDHSSYITGETLKVNGGLYM"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    3312..3893
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00106"
+                     /db_xref="InterPro:IPR002347"
+                     /note="e-value: 2.0553788800952133e-52"
+                     /note="p-value: 7.430870860792528e-56"
+                     /function="Short-chain dehydrogenase/reductase SDR"
+                     /standard_name="PF00106"
+     misc_feature    3429..3887
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF08659"
+                     /db_xref="InterPro:IPR013968"
+                     /note="e-value: 6.36018815434857e-17"
+                     /note="p-value: 2.299417264768102e-20"
+                     /function="Polyketide synthase, ketoreductase domain"
+                     /standard_name="PF08659"
+     misc_feature    3174..3875
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF13561"
+                     /note="e-value: 1.2366371021875248e-62"
+                     /note="p-value: 4.470849971755332e-66"
+                     /standard_name="PF13561"
+ORIGIN
+        1 ctaattcatg ctctccacaa acgaaccaag cgacattaat ttttgatagc ggttgtcaag
+       61 gaaatgaggg tcttgttgga tagtccttag agcgtccaaa aaatattcct tgatcgtgtt
+      121 agcggctgaa aatttgtctc tatgagcccc tttgctaggc tctaagataa tatcatcaat
+      181 aagccctgcc tcctttaaat ctctaggcgt gattttcatc gctttaattg ccacttcagt
+      241 cttgctaggg tcatcccaaa gaatcgccgc gcaaccttct ggggatataa cgctaaaaat
+      301 ggaatattcc atcatagcca atttgtcagc caccgcaatc gctaacgcgc caccactgcc
+      361 cccttcaccg ataattacag aaatagtagg gacttttaag gaagcgaact cctggaggtt
+      421 tttagcgatc gcttcactct gccctctttc ctctgcacca atccccggat acgccccagc
+      481 tgtatctaca agcattaaaa taggcaaatt aaatttttca gcaaactttg ccattttcaa
+      541 agccttacga tagccacaag ggttaggcat gccaaaattt cttaaaagct tgtttttagt
+      601 ccctctgccc ttttcttctc cgatcaccac aaccggaaca ttatcaattt tccctataaa
+      661 acacacgatc gctttatcat cgttatagtg cctatcccca aagacttcat acttatcttt
+      721 taagatcaaa tcaatgtaat ccatagcgta gggtctgtca gggtgtcttg ctaattggag
+      781 tttttgaaaa tcagtgagat tggagtaaat gcttttaact tctttgtcca atcttttttc
+      841 taagatttct ttagcgtcct catcgcctct aataagggct aattcaattt cattttgaat
+      901 ctctttaata tgattttcaa aatctaaata aatggccatt caaaatccta actttgtaaa
+      961 actaggcttt tttgaaaatc acaacaccat tagtgccacc aaaaccaaat gagttactca
+     1021 tcaccgcatc cacttgcttt tctctggccg cattagggat ataatccaaa tcgcattctg
+     1081 ggtcaggcgt ttcttgattg atggtaggag gtaagatccc ttgattcatg gccatgatag
+     1141 aaataacggc ttctaacgcg cccgcagcgc ccaaacaatg cccaatctgc cccttagtgg
+     1201 agctaacggg agggactttt tctttagatc caaacacatt ttttagagcg atgctttcat
+     1261 accaatcgtt ataatgcgtg ctggtcccat gagcgttcac atagcctact tccactttcg
+     1321 ccatttctaa agccattttc atggctctaa aagccccttc accctcagga gctggggctg
+     1381 tgatatggtt agcatcgccg ctctcaccat acccggcaaa ttctgcataa atttttgccc
+     1441 ctcttttttt cgcgctctcg tattcttcaa gcaccaaagc cccagcgcct tcacccatca
+     1501 caaagccatt gcgatcctta tcaaaaggtc ttgaagcttt tttgggatca tcattccttg
+     1561 tagaaagggc tttaatgctc gcaaaccccc caatccctac aggacaaatg gtggattccg
+     1621 ctcccacgac tagcatttta tcagccccat taagcaaaat ggttttaacg gcttcaataa
+     1681 tggcatgagt gcctgctgca caagccgtta cgctagagag attaggccct ttaatgccaa
+     1741 actcaatgga agtgaaaccg ccaatcatat tcactaacgc agaagtgata aaaaagggat
+     1801 tgacttttct agggcctttt tcaaaacaaa aaatggaatt cgcttcaata ttgcctaacc
+     1861 cgccaatccc agagccagag cttacgccca tgcgatttgc caattcttca gggcatttat
+     1921 tgtgagcgtc taaaatccca ctatctttca tcgcctcttt tgtggctttc aaggccaatt
+     1981 gaatgaaacg acccgccttt ttaacatctt tgggattcat cacctctgta gggtcaaagt
+     2041 caatgatttc tccagcaata cgcacaggaa acgcgctcgc atcaaaactt tctatgtttt
+     2101 tgataccgca ttccccttta gcgatcgcta aaaaagaatc ttctttattt aaacctagcg
+     2161 aattgatcat tcccattcca gttactacaa tccgacgcac caatagctcc tcatttcaaa
+     2221 actttaattc agtgaaaccg cccctttcta aaaaaggagc ttcctaacta aagcattcca
+     2281 ttgaatgcta acacgaaagg ctttgttctt tatagtctgc atggatattt cctaccccaa
+     2341 aaagactatt ttaacctctt ttagcttgaa tatagcctaa cggctacgca ctcacatctt
+     2401 gcaccctaaa ggacagagtt ttttcgtgct gttgggataa aacttagcta aagccaaatt
+     2461 tttaggtaaa acctggagac aaacgctcca agttaaaaag attaagctag tttattatcc
+     2521 tcaatatact tcaccacatc gcccacattg acaatttttt ccgcttgctc atcaggaatt
+     2581 tcaatgccaa acttttcttc taacgccatg attaattcca cgacatctaa agagtccgca
+     2641 cccaaatcct tcacaaattc cgcctctggc gtaacttgcg ccgcatcgtt aaaaagatta
+     2701 agctagttta ttatcctcaa tatacttcac cacatcgccc acattgacga ttttttccgc
+     2761 ttgctcatca ggaatttcaa tgccaaactt ttcttctaac gccatgatta attccacgac
+     2821 atctaaagag tccgcaccca aatccttcac aaattccgcc tctggcgtaa cttgcgccgc
+     2881 atccacattc aactgctcag caataactgc ctgaatatct tcaaataaag ccataattaa
+     2941 aactcccttg tttttgtaaa aattaaatca accatcattg gagcgtttat ttttgctcca
+     3001 aaacatctaa aatcctatac aacaaataaa ttacaatgag aaacaatatt aagtaaataa
+     3061 tccccatttg ataataacct ctttgtttta gaataacctc ataatgttag catgattttt
+     3121 gctacttaca aacttttatc gctaaaagaa ccctttgttt aggactacat ataaagcccg
+     3181 ccattgactt tgagagtctc tccagtgatg taactagagt gatcactcaa aagaaacgct
+     3241 accgcttctg ccacttcttt agcagaccct agcctattta agggaatatt cttaacataa
+     3301 tccgctttga gttcatcttt caaattggcg ttcatgtcgg tttctataaa accgggcgtc
+     3361 acagagttga aacgaatatt ccttaaagct ccctcataag caaaggactt gctcatcgca
+     3421 atcatccccc ccttactcgc tgagtagttt gtctgtccca tattgcctct ttcaccaatg
+     3481 atagacgcga tattgactac gctcccaaaa cggcttttgc tcatgatttt tagggcttct
+     3541 ctgcaaccta taaacgctga agtgaggtta ttgtctatga catggtgaaa atcttctgtt
+     3601 ttcattttga tcgctaattt atcgcgcact acaccggcgt tatttaccaa gtaagacaaa
+     3661 cccccatcgc tttggacaat ggtttgtatc gcttcaataa aaccgctttc agaagccgca
+     3721 tcaaatttaa tgacagctgc cttatagcct ttttcttcaa gctcattttt caaagcgtca
+     3781 gccacttcag cattactgcg gtaattgatc caaactttca gccccataga agcgagagtt
+     3841 ctagcaattt cagccccaat gcctttagaa gccccagtaa tgagaacatt tttccctgtg
+     3901 aatcgcat
+//
