@@ -24,16 +24,16 @@ bgc-hpylori-analysis/ ├── data/ # Sample metadata, genome IDs, and links �
 ## 🧰 Tools & Technologies
 
 - antiSMASH / GECCO (BGC prediction)
-- Python (pandas, seaborn, scikit-learn)
-- R (ggplot2, phylogenetics if needed)
+- Python
 - Git & GitHub
-- Conda / Jupyter / RStudio
+- Conda
+- Bash/Linux
 
 ---
 
 ## 📅 Timeline
 
-- April: Project setup, tool installation, initial tests
+- May: Project setup, tool installation, initial tests
 - May: Genome annotation using antiSMASH/GECCO
 - June: Comparative + phylogenetic analysis
 - July: Machine learning and associations
@@ -52,4 +52,4 @@ University College Cork / University of Gothenburg
 
 ---
 
-> This project is part of a supervised Master's research project and is under active development.
+> This project is a supervised Master's research project and is officially completed.
