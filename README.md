@@ -10,8 +10,8 @@ This repository contains the code, annotations, analysis, and results for my MSc
 
 This project aims to:
 - Annotate and catalog BGCs across 1011 *H. pylori* genomes using tools including antiSMASH and GECCO
-- Analyze associations between BGCs, virulence factors, and antibiotic resistance using machine learning
-- Compare BGC distribution across geographic populations
+- Analyze associations between BGCs 
+- Compare BGC distribution across geographic populations if any found
 ---
 
 ## 🗂️ Repository Structure
@@ -28,16 +28,6 @@ bgc-hpylori-analysis/ ├── data/ # Sample metadata, genome IDs, and links �
 - Git & GitHub
 - Conda
 - Bash/Linux
-
----
-
-## 📅 Timeline
-
-- May: Project setup, tool installation, initial tests
-- May: Genome annotation using antiSMASH/GECCO
-- June: Comparative + phylogenetic analysis
-- July: Machine learning and associations
-- August: Thesis writing + finalization
 
 ---
 
