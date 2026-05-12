@@ -16,8 +16,16 @@ This project aims to:
 
 ## 🗂️ Repository Structure
 
-bgc-hpylori-analysis/ ├── data/ # Sample metadata, genome IDs, and links ├── annotations/ # BGC prediction outputs from antiSMASH/GECCO ├── analysis/ # Scripts and notebooks for data processing ├── results/ # Visualizations, summary tables, final outputs ├── thesis/ # Thesis text, figures, and writing materials ├── PLAN.md # Timeline and personal project tracker └── README.md # Project summary and documentation
-
+```text
+bgc-hpylori-analysis/
+├── data/              # Sample metadata, genome IDs, and links
+├── annotations/       # BGC prediction outputs from antiSMASH/GECCO
+├── analysis/          # Scripts and notebooks for data processing
+├── results/           # Visualizations, summary tables, final outputs
+├── thesis/            # Thesis text, figures, and writing materials
+├── PLAN.md            # Timeline and personal project tracker
+└── README.md          # Project summary and documentation
+```
 
 ---
 
